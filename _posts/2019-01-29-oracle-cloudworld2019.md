@@ -50,3 +50,7 @@ tags: oracle review
 
 ### Oracle CloudWorld Seoul 2019 기조연설 현장 생중계
 - [https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be](https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be){:target="_blank"}
+
+## 현장 스케치
+
+![세션1](./img/post/oraclecloud/img4.png)
