@@ -43,10 +43,10 @@ tags: oracle review
 
 
 ### 발표자료 다운로드
-- [link](http://cloudworld.co.kr/down/){:target="_blank"}
+- [http://cloudworld.co.kr/down/](http://cloudworld.co.kr/down/){:target="_blank"}
 
 ### [Oracle CloudWorld Seoul 2019] 하이라이트
-- [link](https://www.youtube.com/watch?v=oPbRE2eQ7X4&feature=youtu.be){:target="_blank"}
+- [https://www.youtube.com/watch?v=oPbRE2eQ7X4&feature=youtu.be](https://www.youtube.com/watch?v=oPbRE2eQ7X4&feature=youtu.be){:target="_blank"}
 
 ### Oracle CloudWorld Seoul 2019 기조연설 현장 생중계
-- [link](https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be){:target="_blank"}
+- [https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be](https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be){:target="_blank"}
