@@ -20,7 +20,7 @@ tags: oracle review
 - Oracle Cloud 소개 및 기업 적용 사례
 
 2. 오후 세션
-# 트랙 4: 최신 클라우드 개발 (Modern Cloud Development)
+- 트랙 4: 최신 클라우드 개발 (Modern Cloud Development)
 * 클라우드 환경에서의 효과적인 서비스 개발, 데브옵스 등 프로세스 관리 및 자동화에 대한 방법론 제시 외에 챗봇과 블록체인 등 신기술 적용 사례를 소개합니다.
 
 - 클라우드 환경에서의 MSA 개발 및 운영, 관리 자동화된 효율적인 CI/CD (Docker / K8S / Terraform) 프로세스에 대해 이해 할 수 있는 시간이 되었습니다.
@@ -43,10 +43,10 @@ tags: oracle review
 
 
 ### 발표자료 다운로드
-- http://cloudworld.co.kr/down/
+- [link](http://cloudworld.co.kr/down/){:target="_blank"}
 
 ### [Oracle CloudWorld Seoul 2019] 하이라이트
-- https://www.youtube.com/watch?v=oPbRE2eQ7X4&feature=youtu.be
+- [link](https://www.youtube.com/watch?v=oPbRE2eQ7X4&feature=youtu.be){:target="_blank"}
 
 ### Oracle CloudWorld Seoul 2019 기조연설 현장 생중계
-- https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be
+- [link](https://www.youtube.com/watch?v=uLB1XwtKJBY&feature=youtu.be){:target="_blank"}
