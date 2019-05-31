@@ -21,5 +21,6 @@ tags: python setup
 
 ​```python
 python --version	Python 3.7.3
+
 pip --version		pip 19.0.3 from c:\python\lib\site-packages\pip (python 3.7)
 ​```
