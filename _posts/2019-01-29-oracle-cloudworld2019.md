@@ -53,4 +53,4 @@ tags: oracle review
 
 ## 현장 스케치
 
-![세션1](./img/post/oraclecloud/img4.png)
+![세션1](/img/post/oraclecloud/img4.png)
