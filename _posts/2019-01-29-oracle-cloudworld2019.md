@@ -4,7 +4,7 @@ title: "Oracle CloudWorld Seoul 2019 Review"
 subtitle:   "Oracle CloudWorld 2019 참가 후기"
 date: 2019-01-29 20:00:00 -0400
 categories: review
-tags: aws review
+tags: oracle review
 ---
 
 ## Oracle CloudWorld Seoul 2019 컨퍼런스 정보
