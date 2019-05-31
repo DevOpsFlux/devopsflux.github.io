@@ -3,7 +3,7 @@ layout: post
 title: "RabbitMQ 개발환경 설정"
 subtitle:   "Windows RabbitMQ 개발 환경 설정"
 date: 2018-07-18 20:00:00 -0400
-categories: develop
+categories: tip
 tags: rabbitmq setup
 ---
 
