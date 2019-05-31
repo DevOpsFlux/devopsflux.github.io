@@ -41,11 +41,10 @@ tags: oracle review
 - 클라우드 네이티브 애플리케이션 개발(Cloud Native AppDev) 
 - 클라우드 애플리케이션을 위한 API 설계 및 개발, 관리 방안
 
-![세션1](/assets/img/post/oraclecloud/img1.png)
-
-![세션2](/assets/img/post/oraclecloud/img2.png)
-
-![세션3](/assets/img/post/oraclecloud/img3.png)
+![img1](/assets/img/post/oraclecloud/img1.png)
+![img2](/assets/img/post/oraclecloud/img2.png)
+![img3](/assets/img/post/oraclecloud/img3.png)
+![img5](/assets/img/post/oraclecloud/img5.png)
 
 ### 발표자료 다운로드
 - [http://cloudworld.co.kr/down/](http://cloudworld.co.kr/down/){:target="_blank"}
@@ -58,6 +57,6 @@ tags: oracle review
 
 ## 현장 스케치
 
-![세션4](/assets/img/post/oraclecloud/img4.png)
+![img4](/assets/img/post/oraclecloud/img4.png)
 
 
