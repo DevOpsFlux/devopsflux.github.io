@@ -34,3 +34,9 @@ tags: aws review
 - [https://youtu.be/oeJYwv1nxWg){:target="_blank"}
 
 
+## 현장 스케치
+
+![img1](/assets/img/post/googlecloud/img1.png)
+![img1](/assets/img/post/googlecloud/img2.png)
+![img1](/assets/img/post/googlecloud/img3.png)
+![img1](/assets/img/post/googlecloud/img4.png)
