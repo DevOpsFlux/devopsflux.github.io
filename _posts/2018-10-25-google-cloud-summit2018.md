@@ -4,9 +4,8 @@ title: "Google Cloud Summit Seoul 2018 Review"
 subtitle:   "Google Cloud Summit 2019 참가 후기"
 date: 2018-10-26 20:00:00 -0400
 categories: review
-tags: aws review
+tags: google cloud review
 ---
-<!-- header-img: "/img/aws-logo.png" -->
 ## Google Cloud Summit Seoul 2018 컨퍼런스 정보
 - 일시 : 2018년 10월 25일 목요일 
 - 장소 : 코엑스 컨벤션 센터
@@ -28,15 +27,14 @@ tags: aws review
 - 하이브리드 클라우드에는 다양한 형태가 있고, 조직에 알맞는 접근 방식을 택하려면 조직의 준비 상태부터 원하는 미래의 애플리케이션 아키텍처에 이르는 많은 요인들을 고려해야 하며, 일반적인 접근 방식에 대한 소개 와 기업이 고려해야 할 기준과 참고할만한 모범 사례를 들을 수 있었습니다.
 
 ### Google Cloud Summit Seoul '18 Highlight
-- [https://www.youtube.com/watch?v=UDkNSEEvmUA){:target="_blank"}
+- [https://www.youtube.com/watch?v=UDkNSEEvmUA](https://www.youtube.com/watch?v=UDkNSEEvmUA){:target="_blank"}
 
 ### Cloud Summit Seoul Keynote Live Stream
-- [https://youtu.be/oeJYwv1nxWg){:target="_blank"}
+- [https://youtu.be/oeJYwv1nxWg](https://youtu.be/oeJYwv1nxWg){:target="_blank"}
 
 
 ## 현장 스케치
 
-![img1](/assets/img/post/googlecloud/img1.png)
-![img1](/assets/img/post/googlecloud/img2.png)
-![img1](/assets/img/post/googlecloud/img3.png)
-![img1](/assets/img/post/googlecloud/img4.png)
+![img1](/assets/img/post/googlecloud/img1.jpg)
+![img1](/assets/img/post/googlecloud/img2.jpg)
+![img1](/assets/img/post/googlecloud/img3.jpg)
