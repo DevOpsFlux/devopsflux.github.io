@@ -9,10 +9,10 @@ tags: redis setup
 
 # Redis 설치 및 개발 환경 정보
 1. Windows Redis 설치
-- https://github.com/dmajkic/redis/downloads
-- https://msopentech.com/opentech-projects/redis/ 
+- [https://github.com/dmajkic/redis/downloads](https://github.com/dmajkic/redis/downloads){:target="_blank"}
+- [https://msopentech.com/opentech-projects/redis/ ](https://msopentech.com/opentech-projects/redis/ ){:target="_blank"}
 - Windows 버전 Redis는 MS Open Tech 그룹의 GitHub 저장소
-- https://github.com/MSOpenTech/redis
+- [https://github.com/MSOpenTech/redis](https://github.com/MSOpenTech/redis){:target="_blank"}
 
 2. Redis 설정 및 실행
 - redis-server.exe
