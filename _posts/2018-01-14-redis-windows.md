@@ -22,13 +22,12 @@ tags: redis setup
 - 설정파일지정 실행 : redis-server redis.windows.conf
 
 3. Redis Windows Service 등록/실행
-​```
+```
  redis-server --service-install redis.windows.conf --loglevel notice
  redis-server --service-start
  redis-server --service-stop
  redis-server --service-uninstall
 
- - 서비스 이름 및 포트 지정
  redis-server --service-install -service-name MyRedisServer
  redis-server --service-install -service-name MyRedisServer -port 99001
  redis-server --service-start -service-name MyRedisServer
@@ -36,7 +35,7 @@ tags: redis setup
 
  net stop redis
  net start redis
-​```
+```
 
 ## Redis 명령어
 - [http://redis.io/commands](http://redis.io/commands){:target="_blank"}
