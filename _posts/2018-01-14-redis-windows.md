@@ -14,25 +14,20 @@ tags: redis setup
 - Windows 버전 Redis는 MS Open Tech 그룹의 GitHub 저장소
 - https://github.com/MSOpenTech/redis
 
-2. Redis 명령어
-- [http://redis.io/commands](http://redis.io/commands){:target="_blank"}
-
-
-​```Redis 설정 및 실행
-
+2. Redis 설정 및 실행
 - redis-server.exe
 - redis-cli.exe
 - redis-cli -h host -p port -p password
 - Redis 기본 포트 : 6379
 - 설정파일지정 실행 : redis-server redis.windows.conf
 
-# Redis Windows Service 등록/실행
+3. Redis Windows Service 등록/실행
 redis-server --service-install redis.windows.conf --loglevel notice
 redis-server --service-start
 redis-server --service-stop
 redis-server --service-uninstall
 
-# 서비스 이름 및 포트 지정
+서비스 이름 및 포트 지정
 redis-server --service-install -service-name MyRedisServer
 redis-server --service-install -service-name MyRedisServer -port 99001
 redis-server --service-start -service-name MyRedisServer
@@ -41,7 +36,9 @@ redis-server --service-uninstall
 net stop redis
 net start redis
 
-​```
+
+## Redis 명령어
+- [http://redis.io/commands](http://redis.io/commands){:target="_blank"}
 
 ## Redis GUI Tool Redis-Desktop-Manager
 - [https://redisdesktop.com/](https://redisdesktop.com/){:target="_blank"}
