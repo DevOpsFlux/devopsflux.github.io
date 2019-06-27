@@ -22,7 +22,7 @@ tags: tools
 - Slack, Telegram, Band, 사내 메신져
 
 
-## Pivotal Tracker
+### Pivotal Tracker
 - Pivotal Tracker vs Trello
 https://www.pivotaltracker.com/agile/tracker-vs-jira
 
@@ -30,20 +30,20 @@ https://www.pivotaltracker.com/agile/tracker-vs-jira
 https://www.pivotaltracker.com/agile/tracker-vs-trello
 https://www.softwareadvice.com/project-management/pivotal-tracker-vs-jira/
 
-## JIRA 
+### JIRA 
 - 소개 : https://confluence.curvc.com/pages/viewpage.action?pageId=27557927
 - 이슈와 워크플로우 가이드
 https://confluence.curvc.com/pages/viewpage.action?pageId=4358569
 https://confluence.curvc.com/pages/viewpage.action?pageId=2031867
 
-## Trello
+### Trello
 https://trello.com/
 - 사용가이드 및 데모 
 https://youtu.be/uFFYc2NaZm8
 https://youtu.be/xky48zyL9iA
 - 크롬 Export Extention
 
-## Slack
+### Slack
 - Info : https://slack.com/intl/en-kr/features
 - API : https://api.slack.com/
 
