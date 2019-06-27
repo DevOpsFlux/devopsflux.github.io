@@ -27,12 +27,12 @@ tags: redis setup
  redis-server --service-start
  redis-server --service-stop
  redis-server --service-uninstall
-
+ 서비스 이름 및 포트 지정
  redis-server --service-install -service-name MyRedisServer
  redis-server --service-install -service-name MyRedisServer -port 99001
  redis-server --service-start -service-name MyRedisServer
  redis-server --service-uninstall
-
+ 서비스 실행
  net stop redis
  net start redis
 ```
