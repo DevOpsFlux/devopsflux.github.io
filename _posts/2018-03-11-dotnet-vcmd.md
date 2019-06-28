@@ -13,7 +13,8 @@ tags: tools
 ### Visual Commander Macro
 - 설치 : [https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.VisualCommander](https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.VisualCommander){:target="_blank"}
 1. VCmd > Command 생성 : idoc 
-'''
+
+```javascript
 Sub Run(DTE As EnvDTE80.DTE2, package As Microsoft.VisualStudio.Shell.Package) Implements VisualCommanderExt.ICommand.Run
 	Dim textSelection As EnvDTE.TextSelection
 	textSelection = DTE.ActiveWindow.Selection
@@ -33,7 +34,7 @@ Sub Run(DTE As EnvDTE80.DTE2, package As Microsoft.VisualStudio.Shell.Package) I
 	textSelection.NewLine()
 	textSelection.Insert("<response></response>")
 End Sub
-'''
+```
 
 ![img1](/assets/img/post/dotnet/img1.jpg)
 
