@@ -15,7 +15,6 @@ tags: tools
 1. VCmd > Command 생성 : idoc 
 '''
 Sub Run(DTE As EnvDTE80.DTE2, package As Microsoft.VisualStudio.Shell.Package) Implements VisualCommanderExt.ICommand.Run
-
 	Dim textSelection As EnvDTE.TextSelection
 	textSelection = DTE.ActiveWindow.Selection
 	textSelection.Insert("/// <summary>API 명칭</summary>")
@@ -33,7 +32,6 @@ Sub Run(DTE As EnvDTE80.DTE2, package As Microsoft.VisualStudio.Shell.Package) I
 	textSelection.Insert("<request></request>")
 	textSelection.NewLine()
 	textSelection.Insert("<response></response>")
-
 End Sub
 '''
 
