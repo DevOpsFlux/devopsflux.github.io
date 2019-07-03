@@ -2,7 +2,7 @@
 layout: post
 title: "Python 개발환경 설정"
 subtitle:   "Windows Python 개발 환경 설정"
-date: 2018-05-10 20:00:00 -0400
+date: 2018-01-07 20:00:00 -0400
 categories: tip
 tags: python setup
 ---
