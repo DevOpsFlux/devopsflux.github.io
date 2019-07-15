@@ -43,10 +43,10 @@ tags: python setup
 ### Python2 -> Python3
 ```
 [ Python2 ]
-	urllib2
-	cookielib
+ urllib2
+ cookielib
 =>
 [ Python3 ]
-	urllib.request
-	http.cookiejar as cookielib
+ urllib.request
+ http.cookiejar as cookielib
 ```
