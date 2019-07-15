@@ -40,7 +40,7 @@ tags: python setup
 4. python -m pip install --upgrade pip
 ```
 
-### Python2 -> Python3
+### Python2 -> Python3 호환성 및 문법 차이 주의
 ```
 [ Python2 ]
  urllib2
