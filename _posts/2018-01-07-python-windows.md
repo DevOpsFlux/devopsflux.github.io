@@ -11,21 +11,22 @@ tags: python setup
 [Python 3.7.3]: https://www.python.org/downloads/release/python-373/
 - Windows x86-64 executable installer
 
-# Python 개발 환경 정보
+## Python 개발 환경 정보
 - C:\Python\Python37\
 - python version : Python 3.7.3
 - pip version : pip 19.0.3 from c:\python\lib\site-packages\pip (python 3.7)
 - Python 정보 관리 : D:\Python\devinfo.txt 
 - Library Install 관리 : D:\Python\pip_install_list.txt 
+​```python
+- python --version	Python 3.7.3
+- pip --version		pip 19.0.3 from c:\python\lib\site-packages\pip (python 3.7)
 ​```
-python --version	Python 3.7.3
-pip --version		pip 19.0.3 from c:\python\lib\site-packages\pip (python 3.7)
-​```
-
 
 ### PIP 최신 버전 업그레이드
+​```
 python -m pip install --upgrade pip
 pip install --upgrade --trusted-host pypi.python.org
+​```
 
 ### 수동설치 방법
 - 수동 설치 패키지 whl 다운로드
