@@ -38,11 +38,10 @@ tags: python setup
 2. pip install -U pip
 3. easy_install --upgrade pip
 4. python -m pip install --upgrade pip
-​```
-
+```
 
 ### Python2 -> Python3
-​```
+```
 [ Python2 ]
 	urllib2
 	cookielib
@@ -50,4 +49,4 @@ tags: python setup
 [ Python3 ]
 	urllib.request
 	http.cookiejar as cookielib
-​```
+```
