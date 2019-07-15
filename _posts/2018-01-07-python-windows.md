@@ -39,8 +39,7 @@ python -m pip install beautifulsoup4-4.7.1-py3-none-any.whl
 ​```
 
 ### PIP로 설치가 안될경우 설치 방법
-​```
-1. https://www.microsoft.com/en-us/download/details.aspx?id=44266
+​```1. https://www.microsoft.com/en-us/download/details.aspx?id=44266
 2. pip install -U pip
 3. easy_install --upgrade pip
 4. python -m pip install --upgrade pip
@@ -48,8 +47,7 @@ python -m pip install beautifulsoup4-4.7.1-py3-none-any.whl
 
 
 ## Python2 -> Python3
-​```
-[ Python2 ]
+​```[ Python2 ]
 	urllib2
 	cookielib
 =>
