@@ -4,5 +4,5 @@ title: Tech Trends
 slug: techtrends
 category: trend
 menu: false
-order: 2
+order: 20
 ---

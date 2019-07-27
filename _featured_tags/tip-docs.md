@@ -4,5 +4,5 @@ title: Docs
 slug: docs
 category: tip
 menu: false
-order: 13
+order: 3
 ---

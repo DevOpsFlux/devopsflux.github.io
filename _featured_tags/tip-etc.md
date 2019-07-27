@@ -4,5 +4,5 @@ title: Etc
 slug: etc
 category: tip
 menu: false
-order: 14
+order: 4
 ---
