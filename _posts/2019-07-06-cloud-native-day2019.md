@@ -53,8 +53,8 @@ tags: cloud-native review
 
 
 4. 클라우드 네이티브 플랫폼의 미래 - Kubernetes 기반의 PCF 로드맵
-- Any App, Every Cloud, One Platform 전략
-- Kubernetes, Istio, Envoy 등의 다양한 오픈소스를 어떻게 활용하고 플랫폼에 흡수하여 운영하는 방법
+- Any App, Every Cloud, One Platform 전략에 대한 내용을 알 수 있었습니다.
+- Kubernetes, Istio, Envoy 등의 다양한 오픈소스를 어떻게 활용하고 플랫폼에 흡수하여 운영하는 방법에 대해 알 수 있었습니다.
 - [https://www.slideshare.net/PivotalKorea/kubernetes-pcf](https://www.slideshare.net/PivotalKorea/kubernetes-pcf){:target="_blank"}
 ![img5](/assets/img/post/cloudnative/img5.jpg)
 
@@ -65,3 +65,8 @@ tags: cloud-native review
 ![img6](/assets/img/post/cloudnative/img6.jpg)
 ![img7](/assets/img/post/cloudnative/img7.jpg)
 ![img8](/assets/img/post/cloudnative/img8.jpg)
+
+## 참가 후기
+- 기대 이상으로 아키텍트적이고 테크니컬한 많은 내용을 들을 수 있었으며, 일부 시스템적이고 잘 알지 못했던 어려운 내용도 좋은 경험이 되었습니다.
+- MSA에 대한 설계 모델링부터 전체적인 워크플로우를 경험 할 수 있었던 좋은 시간이었습니다.
+
