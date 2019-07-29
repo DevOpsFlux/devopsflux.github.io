@@ -4,6 +4,6 @@ title: Essay
 slug: essay
 category: essay
 menu: false
-order: 1
+order: 30
 header-img: "/img/essay-logo.jpg"
 ---

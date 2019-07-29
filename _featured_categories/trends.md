@@ -4,7 +4,7 @@ title: Tech Trends
 slug: trends
 menu: true
 submenu: false
-order: 2
+order: 3
 description: >
   기술 트렌드 
 ---

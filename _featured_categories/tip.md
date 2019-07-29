@@ -4,7 +4,7 @@ title: Dev Tip
 slug: tip
 menu: true
 submenu: true
-order: 4
+order: 1
 description: >
   개발관련 여러 팁들을 공유합니다.
 ---
