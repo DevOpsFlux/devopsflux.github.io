@@ -38,6 +38,7 @@ tags: grafana setup
 
 ## Grafana Plugins   
 - [https://grafana.com/plugins](https://grafana.com/plugins){:target="_blank"}
+- [https://grafana.com/docs/v3.1/plugins/installation/](https://grafana.com/docs/v3.1/plugins/installation/){:target="_blank"}
 ```
 grafana-cli가 있는 폴더로 이동 후 파워쉘 실행
 .\grafana-cli.exe plugins install michaeldmoore-annunciator-panel
