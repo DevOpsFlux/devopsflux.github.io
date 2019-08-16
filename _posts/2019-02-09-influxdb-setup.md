@@ -52,11 +52,11 @@ tags: influxdb setup
 
 ### 설치 및 설정 화면
 
-![img1](/assets/img/post/grafana/img01.PNG)
+![img1](/assets/img/post/influxdb/img01.PNG)
 
-![img2](/assets/img/post/grafana/img02.PNG)
+![img2](/assets/img/post/influxdb/img02.PNG)
 
-![img3](/assets/img/post/grafana/img03.PNG)
+![img3](/assets/img/post/influxdb/img03.PNG)
 
-![img4](/assets/img/post/grafana/img04.PNG)
+![img4](/assets/img/post/influxdb/img04.PNG)
 
