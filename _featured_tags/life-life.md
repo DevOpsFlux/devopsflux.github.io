@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: life
+title: Work & Life
 slug: life
 category: worknlife
 menu: false
