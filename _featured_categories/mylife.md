@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Work & Life
-slug: worknlife
+slug: life
 menu: true
 submenu: false
 order: 4

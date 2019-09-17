@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: worknlife
-slug: worknlife
+title: life
+slug: life
 category: worknlife
 menu: false
 order: 1
