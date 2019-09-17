@@ -3,8 +3,8 @@ layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
 date: 2019-07-17 20:00:00 -0400
-categories: worknlife
-tags: worknlife
+categories: life
+tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트

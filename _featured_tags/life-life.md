@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Work & Life
 slug: life
-category: worknlife
+category: life
 menu: false
 order: 1
 ---
