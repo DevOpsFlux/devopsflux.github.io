@@ -37,7 +37,7 @@ tags: worknlife
 - [https://ppss.kr/archives/169217](https://ppss.kr/archives/169217){:target="_blank"}
 
 ### 인성 나쁜 인재(人材)는 스타트업의 인재(人災) [2019-08-09]
-- [https://www.popit.kr/%EC%9D%B8%EC%84%B1-%EB%82%98%EC%81%9C-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E6%9D%90%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E7%81%BD/](https://www.popit.kr/인성-나쁜-인재人材는-스타트업의-인재人災/){:target="_blank"}
+- [https://www.popit.kr/%EC%9D%B8%EC%84%B1-%EB%82%98%EC%81%9C-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E6%9D%90%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E7%81%BD/](https://www.popit.kr/%EC%9D%B8%EC%84%B1-%EB%82%98%EC%81%9C-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E6%9D%90%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E7%81%BD/){:target="_blank"}
 
 ### 회사속 5성급 캐릭터 [2019-08-16]
 - [https://ppss.kr/archives/169217](https://ppss.kr/archives/169217){:target="_blank"}
