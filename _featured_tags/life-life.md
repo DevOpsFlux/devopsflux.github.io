@@ -1,9 +1,8 @@
 ---
 layout: tag-blog
-title: Essay
-slug: essay
-category: essay
+title: worknlife
+slug: worknlife
+category: worknlife
 menu: false
-order: 30
-header-img: "/img/essay-logo.jpg"
+order: 1
 ---

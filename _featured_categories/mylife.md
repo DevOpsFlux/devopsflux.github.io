@@ -1,7 +1,7 @@
 ---
 layout: list
-title: My Life
-slug: life
+title: Work & Life
+slug: worknlife
 menu: true
 submenu: false
 order: 4
