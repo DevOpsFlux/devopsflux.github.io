@@ -41,7 +41,7 @@ tags: life
 [https://ppss.kr/archives/169217](https://ppss.kr/archives/169217){:target="_blank"}
 
 ### - 인성 나쁜 인재(人材)는 스타트업의 인재(人災) [2019-08-09]
-[https://www.popit.kr/%EC%9D%B8%EC%84%B1-%EB%82%98%EC%81%9C-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E6%9D%90%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E7%81%BD/](인성 나쁜 인재[人材]는 스타트업의 인재[人災]){:target="_blank"}
+[인성 나쁜 인재[人材]는 스타트업의 인재[人災]](https://www.popit.kr/%EC%9D%B8%EC%84%B1-%EB%82%98%EC%81%9C-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E6%9D%90%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%9D%B8%EC%9E%AC%E4%BA%BA%E7%81%BD/){:target="_blank"}
 
 ### - 개인의 성장과 회사의 성장 [2019-08-08]
 [https://brunch.co.kr/@chickenmoim/7](https://brunch.co.kr/@chickenmoim/7){:target="_blank"}
