@@ -9,6 +9,10 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 회사를 떠난 당신의 진짜 역량은 잔재주에 불과할 수도 있다 [2019-09-19]
+- 명함을 잃는 순간 나 자신의 진짜 능력을 알게 된다...
+[http://theschoolofnews.com/archives/7308](http://theschoolofnews.com/archives/7308){:target="_blank"}
+
 ### - 꾸준함의 미학 [2019-09-18]
 - 무엇에 꾸준함을 쓸 것인가? 꾸준함을 '옳은 대상'에 쓰는 일...
 [https://brunch.co.kr/@infinitolee/125?utm_source=facebook.brunch_co_kr&utm_campaign=daily](https://brunch.co.kr/@infinitolee/125?utm_source=facebook.brunch_co_kr&utm_campaign=daily){:target="_blank"}
