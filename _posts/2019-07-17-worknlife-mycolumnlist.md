@@ -9,7 +9,12 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
-<<<<<<< HEAD
+### - 좋은 ‘사수’에게 발견할 수 있는 5가지 특별함 [2019-10-07]
+[https://www.mobiinside.co.kr/2019/08/14/changejobs-marksman/](https://www.mobiinside.co.kr/2019/08/14/changejobs-marksman/){:target="_blank"}
+
+### - 경력은 실력이 아니다 [2019-10-07]
+[https://brunch.co.kr/@mobiinside/1808?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@mobiinside/1808?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
+
 ### - 최악의 리더는 사악하고 유능하다 [2019-10-02]
 [https://brunch.co.kr/@sungyoulkim73/62](https://brunch.co.kr/@sungyoulkim73/62){:target="_blank"}
 
