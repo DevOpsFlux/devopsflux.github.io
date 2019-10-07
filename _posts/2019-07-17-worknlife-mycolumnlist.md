@@ -9,6 +9,37 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 최악의 리더는 사악하고 유능하다 [2019-10-02]
+[https://brunch.co.kr/@sungyoulkim73/62](https://brunch.co.kr/@sungyoulkim73/62){:target="_blank"}
+
+### - 리더는 마지막에 먹는다 [2019-09-24]
+[http://m.yes24.com/Goods/Detail/13165530](http://m.yes24.com/Goods/Detail/13165530){:target="_blank"}
+[https://youtu.be/-7lorJkCRyo](https://youtu.be/-7lorJkCRyo){:target="_blank"}
+
+### - 우리나라 직장인이 일에 몰입하지 못하는 이유 3가지 [2019-09-24]
+[https://jolggu.tistory.com/229](https://jolggu.tistory.com/229){:target="_blank"}
+
+### - 부하 직원의 입을 막는 상사의 다섯 가지 나쁜 태도 [2019-09-23]
+[https://brunch.co.kr/@sungyoulkim73/59](https://brunch.co.kr/@sungyoulkim73/59){:target="_blank"}
+
+### - 직원들에게 주인의식이 없는 진짜 이유 [2019-09-20]
+[https://brunch.co.kr/@sungyoulkim73/52?utm_source=facebook.brunch_co_kr&utm_campaign=daily](https://brunch.co.kr/@sungyoulkim73/52?utm_source=facebook.brunch_co_kr&utm_campaign=daily){:target="_blank"}
+
+### - 아무리 열심히 일해도 직장은 절대로 당신을 책임져 주지 않는다 [2019-09-20]
+[http://theschoolofnews.com/archives/6374](http://theschoolofnews.com/archives/6374){:target="_blank"}
+
+### - 모두 거짓말을 한다 [2019-09-20]
+[http://www.yes24.com/24/goods/61188198?scode=032&OzSrank=1](http://www.yes24.com/24/goods/61188198?scode=032&OzSrank=1){:target="_blank"}
+
+### - 전쟁터 같은 회사에서 60세까지 용케 잘 버티다 지옥에 내동댕이쳐진다면 [2019-09-19]
+- 꿈과 목표가 있는 사람에게도 회사는 전쟁터일 수 있다. 나의 생각과 가치, 뜨거운 열정을 차갑게 식어버리게 만드는 전쟁터, 두 손과 두발을 꽁꽁 묶어버려 결국 나를 전쟁 포로로 만들 수 있는 무서운 환경이 될 수 있기 때문이다.
+- 지옥 같은 전쟁터에서 승리하기 위한 방법은 간단하다. 적보다 강해지면 된다.
+[http://theschoolofnews.com/archives/6330](http://theschoolofnews.com/archives/6330){:target="_blank"}
+
+### - 회사를 떠난 당신의 진짜 역량은 잔재주에 불과할 수도 있다 [2019-09-19]
+- 명함을 잃는 순간 나 자신의 진짜 능력을 알게된다...
+[http://theschoolofnews.com/archives/7308](http://theschoolofnews.com/archives/7308){:target="_blank"}
+
 ### - 꾸준함의 미학 [2019-09-18]
 - 무엇에 꾸준함을 쓸 것인가? 꾸준함을 '옳은 대상'에 쓰는 일...
 [https://brunch.co.kr/@infinitolee/125?utm_source=facebook.brunch_co_kr&utm_campaign=daily](https://brunch.co.kr/@infinitolee/125?utm_source=facebook.brunch_co_kr&utm_campaign=daily){:target="_blank"}
