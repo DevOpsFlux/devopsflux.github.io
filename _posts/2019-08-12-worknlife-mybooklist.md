@@ -23,7 +23,7 @@ tags: life
 [http://mbook.interpark.com/shop/product/detail?prdNo=240365081](http://mbook.interpark.com/shop/product/detail?prdNo=240365081){:target="_blank"}
 
 ### - 당신의 기업을 시작하라
-- 미래의 CEO가 알아야 할 시작의 기술
+- 미래의 CEO가 알아야 할 시작의 기술 
 [http://mbook.interpark.com/shop/product/detail?prdNo=3792564](http://mbook.interpark.com/shop/product/detail?prdNo=3792564){:target="_blank"}
 
 ### - 클린 코더 The Clean Coder
@@ -43,12 +43,12 @@ tags: life
 [http://naver.me/Fzwt7FPu](http://naver.me/Fzwt7FPu){:target="_blank"}
 
 ### - 용인술, 사람을 쓰는 법
-- 사람 쓰는 법에 대한 공자의 경험과 지혜
+- 사람 쓰는 법에 대한 공자의 경험과 지혜 
 [http://mbook.interpark.com/shop/product/detail?prdNo=220884904](http://mbook.interpark.com/shop/product/detail?prdNo=220884904){:target="_blank"}
 [https://m.blog.naver.com/xoxo7779/220696915845](https://m.blog.naver.com/xoxo7779/220696915845){:target="_blank"}
 
-### - 생각정리 스피치
-- 말하기와 글쓰기를 동시에 잡는 방법
+### - 생각정리 스피치 
+- 말하기와 글쓰기를 동시에 잡는 방법 
 [http://mbook.interpark.com/shop/product/detail?prdNo=277346943](http://mbook.interpark.com/shop/product/detail?prdNo=277346943){:target="_blank"}
 
 ### - 생각 정리 스킬
@@ -72,15 +72,15 @@ tags: life
 [http://mbook.interpark.com/shop/product/detail?prdNo=203868523](http://mbook.interpark.com/shop/product/detail?prdNo=203868523){:target="_blank"}
 
 ### - 의욕의 기술
-- 추락하는 의지를 상승시키는 심리 스프링
+- 추락하는 의지를 상승시키는 심리 스프링 
 [http://mbook.interpark.com/shop/product/detail?prdNo=281415550](http://mbook.interpark.com/shop/product/detail?prdNo=281415550){:target="_blank"}
 
 ### - 불행 피하기 기술 
-- 영리하게 인생을 움직이는 52가지 비밀
+- 영리하게 인생을 움직이는 52가지 비밀 
 [http://mbook.interpark.com/shop/product/detail?prdNo=277674169](http://mbook.interpark.com/shop/product/detail?prdNo=277674169){:target="_blank"}
 
 ### - 신경 끄기의 기술 
-- 인생에서 가장 중요한 것만 남기는 힘
+- 인생에서 가장 중요한 것만 남기는 힘 
 [http://mbook.interpark.com/shop/product/detail?prdNo=270046418](http://mbook.interpark.com/shop/product/detail?prdNo=270046418){:target="_blank"}
 
 ### - 비트코인, 블록체인과 금융의 혁신 
