@@ -9,6 +9,15 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 직장생활에서는 평정심을 쉽게 잃지 않는 사람이 성공한다? [2019-10-10]
+[https://m.blog.naver.com/neodw82/221494434664](https://m.blog.naver.com/neodw82/221494434664){:target="_blank"}
+
+### - 오래 기억되는 사람이 되자 [2019-10-10]
+[https://m.blog.naver.com/apnews75/221530801602](https://m.blog.naver.com/apnews75/221530801602){:target="_blank"}
+
+### - 직장생활에서의 정치력이란 [2019-10-10]
+[https://m.blog.naver.com/jakpoom1215/221420608048](https://m.blog.naver.com/jakpoom1215/221420608048){:target="_blank"}
+
 ### - 좋은 ‘사수’에게 발견할 수 있는 5가지 특별함 [2019-10-07]
 [https://www.mobiinside.co.kr/2019/08/14/changejobs-marksman/](https://www.mobiinside.co.kr/2019/08/14/changejobs-marksman/){:target="_blank"}
 
