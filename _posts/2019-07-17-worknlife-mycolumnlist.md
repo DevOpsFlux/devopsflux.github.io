@@ -9,6 +9,9 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 필사적으로 필사하라 [2019-10-18]
+[https://brunch.co.kr/@geulbab/74?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@geulbab/74?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
+
 ### - 직장생활에서는 평정심을 쉽게 잃지 않는 사람이 성공한다? [2019-10-10]
 [https://m.blog.naver.com/neodw82/221494434664](https://m.blog.naver.com/neodw82/221494434664){:target="_blank"}
 
