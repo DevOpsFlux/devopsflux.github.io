@@ -31,7 +31,7 @@ tags: life
 [http://mbook.interpark.com/shop/product/detail?prdNo=240365081](http://mbook.interpark.com/shop/product/detail?prdNo=240365081){:target="_blank"}
 
 ### - 당신의 기업을 시작하라
-- 미래의 CEO가 알아야 할 시작의 기술 
+- 미래의 CEO가 알아야 할 시작의 기술
 [http://mbook.interpark.com/shop/product/detail?prdNo=3792564](http://mbook.interpark.com/shop/product/detail?prdNo=3792564){:target="_blank"}
 
 ### - 클린 코더 The Clean Coder
