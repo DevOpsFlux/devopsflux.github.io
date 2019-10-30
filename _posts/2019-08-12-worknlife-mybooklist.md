@@ -9,6 +9,14 @@ tags: life
 
 ## FLUX 의 BOOK 리스트
 
+### - 무례한 사람에게 웃으며 대처하는 법
+- 인생자체는 긍정적으로, 개소리에는 단호하게!
+[http://mbook.interpark.com/shop/product/detail?prdNo=277545854](http://mbook.interpark.com/shop/product/detail?prdNo=277545854){:target="_blank"}
+
+### - 강원국의 글쓰기
+- 남과 다른 글은 어떻게 쓰는가
+[http://mbook.interpark.com/shop/product/detail?prdNo=285458317](http://mbook.interpark.com/shop/product/detail?prdNo=285458317){:target="_blank"}
+
 ### - 리더는 마지막에 먹는다
 - 숫자가 아닌 사람을 귀중히 여기는 리더의 힘
 - 단기 성과와 손익 계산의 함정에 빠져 성장의 기회를 만들어내지 못하는 기업들
