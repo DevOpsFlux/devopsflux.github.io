@@ -9,6 +9,15 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 무능한 사람이 승진하고 승진한 사람은 무능해지는 이유 [2019-10-29]
+[https://brunch.co.kr/@sungyoulkim73/71](https://brunch.co.kr/@sungyoulkim73/71){:target="_blank"}
+
+### - 개발자의 기술력을 높이는 길, 기술 블로그 [2019-10-28]
+[https://brunch.co.kr/@thswlsgh/6](https://brunch.co.kr/@thswlsgh/6){:target="_blank"}
+
+### - 좋은 기술 블로그를 만들어 나가기 위한 8가지 제언 [2019-10-28]
+[https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog){:target="_blank"}
+
 ### - 필사적으로 필사하라 [2019-10-18]
 [https://brunch.co.kr/@geulbab/74?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@geulbab/74?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
 
