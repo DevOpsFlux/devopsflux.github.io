@@ -9,6 +9,10 @@ tags: life
 
 ## FLUX 의 BOOK 리스트
 
+### - [유아] 반이나 차 있을까 반밖에 없을까?
+- 어떤 사람에게는 반이나 차 있고, 어떤 사람에게는 반밖에 없다.
+[http://mbook.interpark.com/shop/product/detail?prdNo=201807186](http://mbook.interpark.com/shop/product/detail?prdNo=201807186){:target="_blank"}
+
 ### - 무례한 사람에게 웃으며 대처하는 법
 - 인생자체는 긍정적으로, 개소리에는 단호하게!
 [http://mbook.interpark.com/shop/product/detail?prdNo=277545854](http://mbook.interpark.com/shop/product/detail?prdNo=277545854){:target="_blank"}
