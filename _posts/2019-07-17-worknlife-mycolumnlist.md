@@ -9,6 +9,12 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 나는 무슨 수로 최고의 리더와 일하게 되었나 [2019-11-12]
+[https://ppss.kr/archives/206018](https://ppss.kr/archives/206018){:target="_blank"}
+
+### - 일이 쌓였지만 아무것도 하기 싫을 때 꼭 '이걸' 한다 [2019-11-08]
+[https://1boon.kakao.com/ziksir/5aebf6216a8e510001062a34](https://1boon.kakao.com/ziksir/5aebf6216a8e510001062a34){:target="_blank"}
+
 ### - 무능한 사람이 승진하고 승진한 사람은 무능해지는 이유 [2019-10-29]
 [https://brunch.co.kr/@sungyoulkim73/71](https://brunch.co.kr/@sungyoulkim73/71){:target="_blank"}
 
