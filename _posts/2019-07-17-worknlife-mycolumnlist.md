@@ -9,6 +9,15 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 나갈 사람 내보내면서 챙겨야 할 것... [2019-12-02]
+[https://brunch.co.kr/@supims/717](https://brunch.co.kr/@supims/717){:target="_blank"}
+
+### - 어느날 맥심이 사라졌다 [2019-11-22]
+[https://brunch.co.kr/@quarterly-shj/67?utm_source=facebook.brunch_co_kr&utm_campaign=daily](https://brunch.co.kr/@quarterly-shj/67?utm_source=facebook.brunch_co_kr&utm_campaign=daily){:target="_blank"}
+
+### - 오픈소스 컨트리뷰션 [2019-11-20]
+[https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html#beforecontribute](https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html#beforecontribute){:target="_blank"}
+
 ### - 나는 무슨 수로 최고의 리더와 일하게 되었나 [2019-11-12]
 [https://ppss.kr/archives/206018](https://ppss.kr/archives/206018){:target="_blank"}
 
