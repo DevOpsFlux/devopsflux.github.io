@@ -9,6 +9,30 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - 퇴사를 꿈꾸는 직장인들이 퇴근 후 할 일 [2019-12-18]
+[https://ppss.kr/archives/208555#_enliple](https://ppss.kr/archives/208555#_enliple){:target="_blank"}
+
+### - 오늘은 월요일, 정면승부가 필요해 [2019-12-16]
+[https://brunch.co.kr/@workerhanee/300](https://brunch.co.kr/@workerhanee/300){:target="_blank"}
+
+### - 상사되면 '하지말자' 10가지 다짐 [2019-12-16]
+[https://brunch.co.kr/@workerhanee/327](https://brunch.co.kr/@workerhanee/327){:target="_blank"}
+
+### - 왜 지금, 어댑티브 리더십인가? [2019-12-13]
+[https://brunch.co.kr/@explorerjin/21](https://brunch.co.kr/@explorerjin/21){:target="_blank"}
+
+### - "누가 잘했는지 평가합시다" 목적은 무임승차 잡기 [2019-12-13]
+[https://brunch.co.kr/@lunarshore/235](https://brunch.co.kr/@lunarshore/235){:target="_blank"}
+
+### - '침묵의 회의'를 벗어나기위한 리더의 역할 [2019-12-13]
+[https://brunch.co.kr/@sungyoulkim73/58](https://brunch.co.kr/@sungyoulkim73/58){:target="_blank"}
+
+### - 회사의 버려진 카드가 됐을때 [2019-12-12]
+[https://brunch.co.kr/@toritravel/69](https://brunch.co.kr/@toritravel/69){:target="_blank"}
+
+### - 여보, 나 회사 잘렸어! [2019-12-06]
+[https://brunch.co.kr/@prettyramga/2?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@prettyramga/2?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
+
 ### - 나갈 사람 내보내면서 챙겨야 할 것... [2019-12-02]
 [https://brunch.co.kr/@supims/717](https://brunch.co.kr/@supims/717){:target="_blank"}
 
