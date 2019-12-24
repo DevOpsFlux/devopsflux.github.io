@@ -39,9 +39,6 @@ tags: life
 ### - 어느날 맥심이 사라졌다 [2019-11-22]
 [https://brunch.co.kr/@quarterly-shj/67?utm_source=facebook.brunch_co_kr&utm_campaign=daily](https://brunch.co.kr/@quarterly-shj/67?utm_source=facebook.brunch_co_kr&utm_campaign=daily){:target="_blank"}
 
-### - 오픈소스 컨트리뷰션 [2019-11-20]
-[https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html#beforecontribute](https://naver.github.io/OpenSourceGuide/book/BetterContribution/why-contribute-to-open-source.html#beforecontribute){:target="_blank"}
-
 ### - 나는 무슨 수로 최고의 리더와 일하게 되었나 [2019-11-12]
 [https://ppss.kr/archives/206018](https://ppss.kr/archives/206018){:target="_blank"}
 
@@ -50,12 +47,6 @@ tags: life
 
 ### - 무능한 사람이 승진하고 승진한 사람은 무능해지는 이유 [2019-10-29]
 [https://brunch.co.kr/@sungyoulkim73/71](https://brunch.co.kr/@sungyoulkim73/71){:target="_blank"}
-
-### - 개발자의 기술력을 높이는 길, 기술 블로그 [2019-10-28]
-[https://brunch.co.kr/@thswlsgh/6](https://brunch.co.kr/@thswlsgh/6){:target="_blank"}
-
-### - 좋은 기술 블로그를 만들어 나가기 위한 8가지 제언 [2019-10-28]
-[https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog){:target="_blank"}
 
 ### - 필사적으로 필사하라 [2019-10-18]
 [https://brunch.co.kr/@geulbab/74?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@geulbab/74?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
@@ -125,15 +116,6 @@ tags: life
 ### - 워라밸을 지키며 일하는 3가지 방법 [2019-09-03]
 [https://platum.kr/archives/124230](https://platum.kr/archives/124230){:target="_blank"}
 
-### - 소프트웨어 환멸감 [2019-08-24]
-[https://muchtrans.com/translations/software-disenchantment.ko.html](https://muchtrans.com/translations/software-disenchantment.ko.html){:target="_blank"}
-
-### - 플랫폼과 에코시스템 [2019-08-23]
-[https://bahnsville.tistory.com/m/337](https://bahnsville.tistory.com/m/337){:target="_blank"}
-
-### - APIDocs 테크니컬 라이트 [2019-08-20]
-[https://engineering.linecorp.com/ko/blog/api-the-docs-chicago-2019-recap/](https://engineering.linecorp.com/ko/blog/api-the-docs-chicago-2019-recap/){:target="_blank"}
-
 ### - 회사속 5성급 캐릭터 [2019-08-16]
 [https://ppss.kr/archives/169217](https://ppss.kr/archives/169217){:target="_blank"}
 
@@ -155,17 +137,8 @@ tags: life
 ### - 일취월장 리더십 [2019-06-05]
 [https://jolggu.tistory.com/623?fbclid=IwAR0NODrMrADqPCNs0xDgbphT62pCxfXiIXHgqDeuW4mMV0lPaB31Lz4apk4](https://jolggu.tistory.com/623?fbclid=IwAR0NODrMrADqPCNs0xDgbphT62pCxfXiIXHgqDeuW4mMV0lPaB31Lz4apk4){:target="_blank"}
 
-### - 결과적 일관성 [2019-05-23]
-[https://www.popit.kr/rest-기반의-간단한-분산-트랜잭션-구현-2편-tcc-cancel-timeout/](https://www.popit.kr/rest-기반의-간단한-분산-트랜잭션-구현-2편-tcc-cancel-timeout/){:target="_blank"}
-
 ### - 보스와 리더의 차이 [2019-04-05]
 [https://brunch.co.kr/@ysp0722/1230](https://brunch.co.kr/@ysp0722/1230){:target="_blank"}
-
-### - MSA는 답이 아니었다 [2019-04-02]
-[http://www.ciokorea.com/news/39258](http://www.ciokorea.com/news/39258){:target="_blank"}
-
-### - 나는 그저 그런 개발자 입니다 [2019-03-30]
-[https://blog.meeta.io/m/15?category=652388](https://blog.meeta.io/m/15?category=652388){:target="_blank"}
 
 ### - 리더 유형 [2019-03-14]
 [http://naver.me/x0wVt2py](http://naver.me/x0wVt2py){:target="_blank"}
@@ -173,7 +146,19 @@ tags: life
 ### - 동기를 부여하는 지도자 [2019-02-11]
 [https://m.blog.naver.com/sageleadership/221227802229](https://m.blog.naver.com/sageleadership/221227802229){:target="_blank"}
 
-### - 개발자에게 좋은 직장 좋은 환경 [2019-02-11]
-[http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/](http://www.chidoo.me/index.php/2018/12/31/good-company-or-good-environment-for-a-developer/){:target="_blank"}
 
+### - 일을하기위한 혁신 [2018-12-23]
+[https://m.post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958&navigationType=push](https://m.post.naver.com/viewer/postView.nhn?volumeNo=17322226&memberNo=39874958&navigationType=push){:target="_blank"}
+
+### - 팀장을 위한 51% 정답 [2018-12-23]
+[https://brunch.co.kr/@believeinurself/72?fbclid=iwar09vhmoqywdltnusbadzbbs-ca7gyep6nlvx74mhlmh-jeuzfikh75krck](https://brunch.co.kr/@believeinurself/72?fbclid=iwar09vhmoqywdltnusbadzbbs-ca7gyep6nlvx74mhlmh-jeuzfikh75krck){:target="_blank"}
+
+### - 꼰대 체크리스트 [2018-12-23]
+[http://naver.me/GsdvMKDi](http://naver.me/GsdvMKDi){:target="_blank"}
+
+### - 콘웨이의 법칙 [2018-12-23]
+[https://www.google.com/amp/s/arload.wordpress.com/2008/05/07/politicsswarchitecture/amp/](https://www.google.com/amp/s/arload.wordpress.com/2008/05/07/politicsswarchitecture/amp/){:target="_blank"}
+
+### - 프로젝트는 정치다 [2018-12-23]
+[http://www.popit.kr/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-%EC%A0%95%EC%B9%98%EB%8B%A4/](http://www.popit.kr/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-%EC%A0%95%EC%B9%98%EB%8B%A4/){:target="_blank"}
 
