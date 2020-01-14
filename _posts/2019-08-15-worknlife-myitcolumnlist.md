@@ -9,6 +9,21 @@ tags: life
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
+### - 파일럿의 함정 [2020-01-08]
+[https://www.popit.kr/1-데이터-엔지니어와-마이크로-서비스-구축-si-프로젝트/](https://www.popit.kr/1-데이터-엔지니어와-마이크로-서비스-구축-si-프로젝트/){:target="_blank"}
+
+### - 레거시 운영개발팀을 수습하다 [2020-01-08]
+[https://greypencil.tistory.com/m/113?category=742520](https://greypencil.tistory.com/m/113?category=742520){:target="_blank"}
+
+### - 당신의 개발자들은 결코 느리지 않다 [2020-01-04]
+[http://tech.trenbe.com/?p=547](http://tech.trenbe.com/?p=547){:target="_blank"}
+
+### - [애자일 도입사례] 아브락사스의 애자일 실패 사례 [2020-01-03]
+[http://tech.trenbe.com/?p=561](http://tech.trenbe.com/?p=561){:target="_blank"}
+
+### - 당신도 할 수 있는 레거시 프로젝트 개선 이야기 [2019-12-25]
+[https://github.com/LeeKyoungIl/SpringCamp2019](https://github.com/LeeKyoungIl/SpringCamp2019){:target="_blank"}
+
 ### - “몰래 하는 맛” 비밀스럽게 즐기는 10가지 나쁜 프로그래밍 습관 [2019-12-13]
 [http://www.itworld.co.kr/news/138706](http://www.itworld.co.kr/news/138706){:target="_blank"}
 

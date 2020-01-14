@@ -9,6 +9,27 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - CEO를 위한 운영 및 내부 커뮤니케이션 전략 [2020-01-11]
+[https://news.hada.io/topic?id=1156](https://news.hada.io/topic?id=1156){:target="_blank"}
+
+### - 당신은 회사에서 심리적으로 안전하신가요? [2020-01-08]
+[https://brunch.co.kr/@fastfive/180](https://brunch.co.kr/@fastfive/180){:target="_blank"}
+
+### - 일 잘하는 사람의 시간 관리 비법, '타임박싱'이란? [2020-01-08]
+[https://brunch.co.kr/@fastfive/190](https://brunch.co.kr/@fastfive/190){:target="_blank"}
+
+### - 회사에 칼을 빼들고 다녔다 [2019-12-27]
+[https://brunch.co.kr/@lynkim/30](https://brunch.co.kr/@lynkim/30){:target="_blank"}
+
+### - 직장인 노예시대를 살아갈 뿐 [2019-12-27]
+[https://brunch.co.kr/@jejecafe/29](https://brunch.co.kr/@jejecafe/29){:target="_blank"}
+
+### - 회사에서 불평만을얘기한다는 것 [2019-12-27]
+[https://brunch.co.kr/@wonderhr/18](https://brunch.co.kr/@wonderhr/18){:target="_blank"}
+
+### - 직장생활 속 '체리피커' 빌런 [2019-12-26]
+[https://brunch.co.kr/@sungyoulkim73/75](https://brunch.co.kr/@sungyoulkim73/75){:target="_blank"}
+
 ### - 퇴사를 꿈꾸는 직장인들이 퇴근 후 할 일 [2019-12-18]
 [https://ppss.kr/archives/208555#_enliple](https://ppss.kr/archives/208555#_enliple){:target="_blank"}
 
