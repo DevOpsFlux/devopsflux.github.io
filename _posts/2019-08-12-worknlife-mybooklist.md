@@ -2,12 +2,24 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2019-08-12 20:00:00 -0400
+date: 2020-02-24 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 업무 시각화 : 효율적으로 업무를 처리하는 시간 관리 비법
+- 시간을 훔치는 다섯 도둑을 찾아내는 방법
+[http://mbook.interpark.com/shop/product/detail?prdNo=327029986](http://mbook.interpark.com/shop/product/detail?prdNo=327029986){:target="_blank"}
+
+### - 나를 미치게 하는 오피스 빌런 : 당연한 게 당연하지 않습니다
+- 슈퍼 히어로도 손사래 치는, 오피스 빌런. 과연 누가 이들을 물리쳐 주나?
+[http://mbook.interpark.com/shop/product/detail?prdNo=318805677](http://mbook.interpark.com/shop/product/detail?prdNo=318805677){:target="_blank"}
+
+### - 클린 아키텍처 : 소프트웨어 구조와 설계의 원칙
+- 소프트웨어 구조와 설계의 원칙
+[http://mbook.interpark.com/shop/product/detail?prdNo=314531122](http://mbook.interpark.com/shop/product/detail?prdNo=314531122){:target="_blank"}
 
 ### - [유아] 반이나 차 있을까 반밖에 없을까?
 - 어떤 사람에게는 반이나 차 있고, 어떤 사람에게는 반밖에 없다.

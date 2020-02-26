@@ -2,12 +2,24 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2019-07-17 20:00:00 -0400
+date: 2020-02-15 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 브로콜리가 문화를 지켜가는 법 [2020-02-05]
+[https://brunch.co.kr/@musestory/66](https://brunch.co.kr/@musestory/66){:target="_blank"}
+
+### - 당신을 운 좋은 사람으로 만드는 5가지 비결 [2020-02-02]
+[https://jolggu.tistory.com/1748](https://jolggu.tistory.com/1748){:target="_blank"}
+
+### - 실무자와 관리자의 8시간은 정말 같을까? [2020-01-29]
+[https://brunch.co.kr/@dooook/34](https://brunch.co.kr/@dooook/34){:target="_blank"}
+
+### - 스타트업 대표는 한 달 정도 다른 일 하지 말고 KPI만 파고 들어 보자 [2020-01-29]
+[https://medium.com/translink/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8C%80%ED%91%9C%EB%8A%94-%ED%95%9C-%EB%8B%AC-%EC%A0%95%EB%8F%84-%EB%8B%A4%EB%A5%B8-%EC%9D%BC-%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-kpi%EB%A7%8C-%ED%8C%8C%EA%B3%A0-%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90-c54745adf37c](https://medium.com/translink/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8C%80%ED%91%9C%EB%8A%94-%ED%95%9C-%EB%8B%AC-%EC%A0%95%EB%8F%84-%EB%8B%A4%EB%A5%B8-%EC%9D%BC-%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-kpi%EB%A7%8C-%ED%8C%8C%EA%B3%A0-%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90-c54745adf37c){:target="_blank"}
 
 ### - CEO를 위한 운영 및 내부 커뮤니케이션 전략 [2020-01-11]
 [https://news.hada.io/topic?id=1156](https://news.hada.io/topic?id=1156){:target="_blank"}
