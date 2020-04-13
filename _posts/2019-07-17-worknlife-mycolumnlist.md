@@ -2,12 +2,39 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-02-15 20:00:00 -0400
+date: 2020-03-18 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 리더가 절대 하지 말아야 하는 세가지 행동 [2020-03-18]
+[https://brunch.co.kr/@mindclinic/94?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@mindclinic/94?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
+
+### - 좋은 리더의 목표설정, 피드백, 성과 평가란: 팀원을 납득시키는 좋은 커뮤니케이션 [2020-03-17]
+[https://publy.co/set/785?fr=chapter](https://publy.co/set/785?fr=chapter){:target="_blank"}
+
+### - 이기는 리더십 [2020-03-12]
+[https://m.post.naver.com/viewer/postView.nhn?volumeNo=27577422](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27577422){:target="_blank"}
+
+### - 팀장 때려치우고 싶은 순간 TOP 5 [2020-03-10]
+[https://m.post.naver.com/viewer/postView.nhn?volumeNo=27644547&memberNo=48566052](https://m.post.naver.com/viewer/postView.nhn?volumeNo=27644547&memberNo=48566052){:target="_blank"}
+
+### - 직장인, 빼는 것이 플러스다 [2020-03-10]
+[https://brunch.co.kr/@workerhanee/373](https://brunch.co.kr/@workerhanee/373){:target="_blank"}
+
+### - 일을 번복하고 다시 시킬 때 리더가 지켜야 할 것은? [2020-03-06]
+[https://infuture.kr/m/1741](https://infuture.kr/m/1741){:target="_blank"}
+
+### - 직장생활 현타, 다닐 거라면 지독하게 [2020-03-03]
+[https://brunch.co.kr/@workerhanee/368](https://brunch.co.kr/@workerhanee/368){:target="_blank"}
+
+### - 당신은 좋은 팀장이 되는 법을 배운 적이 없다 [2020-02-27]
+[https://publy.co/set/782?fr=chapter](https://publy.co/set/782?fr=chapter){:target="_blank"}
+
+### - A급 실무자가 B급 중간관리자가 되는 이유 [2020-02-27]
+[https://publy.co/content/4351?utm_source=ppc_facebook&utm_medium=ad_link&utm_content=evergreen-all-u-2065-kr&utm_campaign=kr-s2con-ppc-fbn-auto-web-all-cnv-generic&utm_term=2020_goodboss_ch001_20200221-v11-lnk-img-sta-20200221](https://publy.co/content/4351?utm_source=ppc_facebook&utm_medium=ad_link&utm_content=evergreen-all-u-2065-kr&utm_campaign=kr-s2con-ppc-fbn-auto-web-all-cnv-generic&utm_term=2020_goodboss_ch001_20200221-v11-lnk-img-sta-20200221){:target="_blank"}
 
 ### - 브로콜리가 문화를 지켜가는 법 [2020-02-05]
 [https://brunch.co.kr/@musestory/66](https://brunch.co.kr/@musestory/66){:target="_blank"}

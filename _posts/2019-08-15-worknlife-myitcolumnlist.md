@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-02-22 20:00:00 -0400
+date: 2020-02-27 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - 개발자 비급(祕笈) : 업무 생산성을 최대로 올리는 법 [2020-02-27]
+[http://channy.creation.net/blog/1284](http://channy.creation.net/blog/1284){:target="_blank"}
 
 ### - 마틴파울러 CQRS [2020-02-22]
 [https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-cqrs-%ED%8F%AC%EC%8A%A4%ED%8C%85-245c63bb1e58](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-cqrs-%ED%8F%AC%EC%8A%A4%ED%8C%85-245c63bb1e58){:target="_blank"}
