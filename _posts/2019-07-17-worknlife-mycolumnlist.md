@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-03-18 20:00:00 -0400
+date: 2020-04-23 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 아침을 어떻게 시작하느냐에 따라 성과는 달라진다 [2020-04-23]
+[https://hrbulletin.net/performance-management/%EC%95%84%EC%B9%A8%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%90%EB%83%90%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%84%B1%EA%B3%BC%EB%8A%94-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/](https://hrbulletin.net/performance-management/%EC%95%84%EC%B9%A8%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%90%EB%83%90%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%84%B1%EA%B3%BC%EB%8A%94-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/){:target="_blank"}
 
 ### - 리더가 절대 하지 말아야 하는 세가지 행동 [2020-03-18]
 [https://brunch.co.kr/@mindclinic/94?utm_source=pf_brunch&utm_campaign=weekly](https://brunch.co.kr/@mindclinic/94?utm_source=pf_brunch&utm_campaign=weekly){:target="_blank"}
