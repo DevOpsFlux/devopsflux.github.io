@@ -2,12 +2,24 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-02-24 20:00:00 -0400
+date: 2020-06-09 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 넷플릭스의 클라우드 엔지니어링
+- 소프트웨어의 생명주기가 곧 사업의 생명주기다
+[http://mbook.interpark.com/shop/product/detail?prdNo=333291557](http://mbook.interpark.com/shop/product/detail?prdNo=333291557){:target="_blank"}
+
+### - 데이터 시각화 교과서
+- 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용
+[http://mbook.interpark.com/shop/product/detail?prdNo=328975470](http://mbook.interpark.com/shop/product/detail?prdNo=328975470){:target="_blank"}
+
+### - 문병로 교수의 메트릭 스튜디오
+- 최고 권위의 컴퓨터 알고리즘 전문가가 전하는 투자의 본질
+[http://mbook.interpark.com/shop/product/detail?prdNo=214167327](http://mbook.interpark.com/shop/product/detail?prdNo=214167327){:target="_blank"}
 
 ### - 업무 시각화 : 효율적으로 업무를 처리하는 시간 관리 비법
 - 시간을 훔치는 다섯 도둑을 찾아내는 방법

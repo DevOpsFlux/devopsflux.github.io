@@ -2,12 +2,21 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-04-23 20:00:00 -0400
+date: 2020-06-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 직원몰입을-높이는-가장-강력한-요인-두-가지 [2020-06-10]
+[https://hrbulletin.net/engagement/직원몰입을-높이는-가장-강력한-요인-두-가지/](https://hrbulletin.net/engagement/직원몰입을-높이는-가장-강력한-요인-두-가지/){:target="_blank"}
+
+### - 일하지 않는 사람은 가라 [2020-05-29]
+[https://www.popit.kr/일하지-않는-사람은-가라/](https://www.popit.kr/일하지-않는-사람은-가라/){:target="_blank"}
+
+### - 리더 입장에서 보는 '일못하는 직원' Top8 [2020-05-29]
+[http://thechangeground.com/archives/18694](http://thechangeground.com/archives/18694){:target="_blank"}
 
 ### - 아침을 어떻게 시작하느냐에 따라 성과는 달라진다 [2020-04-23]
 [https://hrbulletin.net/performance-management/아침을-어떻게-시작하느냐에-따라-성과는-달라진다/](https://hrbulletin.net/performance-management/%EC%95%84%EC%B9%A8%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%90%EB%83%90%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%84%B1%EA%B3%BC%EB%8A%94-%EB%8B%AC%EB%9D%BC%EC%A7%84%EB%8B%A4/){:target="_blank"}
