@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-06-09 20:00:00 -0400
+date: 2020-06-16 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 일을 잘 맡긴다는 것
+- 리더가 일 잘하는 것은 쓸모없고, 일 잘 맡기는 것이 중요하다
+[http://mbook.interpark.com/shop/product/detail?prdNo=332784671](http://mbook.interpark.com/shop/product/detail?prdNo=332784671){:target="_blank"}
 
 ### - 넷플릭스의 클라우드 엔지니어링
 - 소프트웨어의 생명주기가 곧 사업의 생명주기다
