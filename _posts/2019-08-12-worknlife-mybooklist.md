@@ -9,6 +9,10 @@ tags: life
 
 ## FLUX 의 BOOK 리스트
 
+### - 최고의 휴식
+- 왜 아무리 쉬어도 피곤이 풀리지 않는 걸까
+[http://mbook.interpark.com/shop/product/detail?prdNo=268608340](http://mbook.interpark.com/shop/product/detail?prdNo=268608340){:target="_blank"}
+
 ### - 일을 잘 맡긴다는 것
 - 리더가 일 잘하는 것은 쓸모없고, 일 잘 맡기는 것이 중요하다
 [http://mbook.interpark.com/shop/product/detail?prdNo=332784671](http://mbook.interpark.com/shop/product/detail?prdNo=332784671){:target="_blank"}

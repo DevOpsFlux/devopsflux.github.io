@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-02-27 20:00:00 -0400
+date: 2020-04-27 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - 천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정 [2020-04-27]
+[https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users){:target="_blank"}
 
 ### - 개발자 비급(祕笈) : 업무 생산성을 최대로 올리는 법 [2020-02-27]
 [http://channy.creation.net/blog/1284](http://channy.creation.net/blog/1284){:target="_blank"}
