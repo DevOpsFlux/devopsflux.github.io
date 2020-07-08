@@ -9,6 +9,15 @@ tags: life
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
+### - “저, 회사 그만두겠습니다”: 예상치 못한 퇴사 면담 [2020-07-04]
+[https://ppss.kr/archives/198194](https://ppss.kr/archives/198194){:target="_blank"}
+
+### - 더 나은 개발 팀 만들기 [2020-07-02]
+[https://brunch.co.kr/@gigonelee/10](https://brunch.co.kr/@gigonelee/10){:target="_blank"}
+
+### - 개인의 성장과 회사의 성장 [2020-06-30]
+[https://brunch.co.kr/@chickenmoim/7](https://brunch.co.kr/@chickenmoim/7){:target="_blank"}
+
 ### - 직원몰입을-높이는-가장-강력한-요인-두-가지 [2020-06-10]
 [https://hrbulletin.net/engagement/직원몰입을-높이는-가장-강력한-요인-두-가지/](https://hrbulletin.net/engagement/직원몰입을-높이는-가장-강력한-요인-두-가지/){:target="_blank"}
 

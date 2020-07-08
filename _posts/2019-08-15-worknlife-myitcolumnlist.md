@@ -9,6 +9,9 @@ tags: life
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
+### - “푼돈인 줄 알았는데” 기업 클라우드 요금제의 7가지 어두운 비밀 [2020-07-03]
+[http://www.itworld.co.kr/news/155660](http://www.itworld.co.kr/news/155660){:target="_blank"}
+
 ### - 천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정 [2020-04-27]
 [https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users){:target="_blank"}
 

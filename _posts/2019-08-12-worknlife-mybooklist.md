@@ -9,6 +9,10 @@ tags: life
 
 ## FLUX 의 BOOK 리스트
 
+### - 완벽하지 않은 것들에 대한 사랑
+- 온전한 나를 위한 혜민 스님의 따뜻한 응원
+[http://mbook.interpark.com/shop/product/detail?prdNo=249462708](http://mbook.interpark.com/shop/product/detail?prdNo=249462708){:target="_blank"}
+
 ### - 최고의 휴식
 - 왜 아무리 쉬어도 피곤이 풀리지 않는 걸까
 [http://mbook.interpark.com/shop/product/detail?prdNo=268608340](http://mbook.interpark.com/shop/product/detail?prdNo=268608340){:target="_blank"}
