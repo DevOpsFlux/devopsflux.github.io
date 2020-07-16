@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-06-10 20:00:00 -0400
+date: 2020-07-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 가짜 청년 멘토들의 특징 [2020-07-10]
+[https://brunch.co.kr/@choihs0228/298](https://brunch.co.kr/@choihs0228/298){:target="_blank"}
 
 ### - “저, 회사 그만두겠습니다”: 예상치 못한 퇴사 면담 [2020-07-04]
 [https://ppss.kr/archives/198194](https://ppss.kr/archives/198194){:target="_blank"}

@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-04-27 20:00:00 -0400
+date: 2020-07-11 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - TCP의 흐름제어, 오류제어, 혼잡제어 개념에 대한 개요 [2020-07-11]
+[https://roka88.dev/114](https://roka88.dev/114){:target="_blank"}
 
 ### - “푼돈인 줄 알았는데” 기업 클라우드 요금제의 7가지 어두운 비밀 [2020-07-03]
 [http://www.itworld.co.kr/news/155660](http://www.itworld.co.kr/news/155660){:target="_blank"}

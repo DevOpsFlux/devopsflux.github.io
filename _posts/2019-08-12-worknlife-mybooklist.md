@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-06-16 20:00:00 -0400
+date: 2020-07-16 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 은밀한 설계자들
+- 세상을 변화시키는 새로운 종족
+[http://mbook.interpark.com/shop/product/detail?prdNo=332220346](http://mbook.interpark.com/shop/product/detail?prdNo=332220346){:target="_blank"}
 
 ### - 완벽하지 않은 것들에 대한 사랑
 - 온전한 나를 위한 혜민 스님의 따뜻한 응원
