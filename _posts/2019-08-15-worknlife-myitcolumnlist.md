@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-07-11 20:00:00 -0400
+date: 2020-07-23 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - 엘라스틱서치 인덱스와 샤드 분할 [2020-07-23]
+[https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html){:target="_blank"}
 
 ### - TCP의 흐름제어, 오류제어, 혼잡제어 개념에 대한 개요 [2020-07-11]
 [https://roka88.dev/114](https://roka88.dev/114){:target="_blank"}

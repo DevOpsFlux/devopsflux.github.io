@@ -2,12 +2,18 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-07-10 20:00:00 -0400
+date: 2020-07-25 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 좋은 사람처럼 보이려고 애쓰지 마라 [2020-07-25]
+[http://moneyman.kr/archives/11456](http://moneyman.kr/archives/11456){:target="_blank"}
+
+### - 경력자의 지원동기 쓰는 법 [2020-07-23]
+[https://ppss.kr/archives/220418](https://ppss.kr/archives/220418){:target="_blank"}
 
 ### - 가짜 청년 멘토들의 특징 [2020-07-10]
 [https://brunch.co.kr/@choihs0228/298](https://brunch.co.kr/@choihs0228/298){:target="_blank"}
