@@ -9,11 +9,11 @@ tags: life
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
+### - 차세대, 리팩토링 그리고 애자일 [2020-07-27]
+[https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/){:target="_blank"}
+
 ### - API 이코노미를 살펴보다 (1) 최근 기술 및 사업화 동향 [2020-07-27]
 [http://channy.creation.net/blog/1371](http://channy.creation.net/blog/1371){:target="_blank"}
-
-### - 차세대, 리팩토링 그리고 애자일 [2020-07-27]
-[https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/?_fr=dable&utm_source=dable](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/?_fr=dable&utm_source=dable){:target="_blank"}
 
 ### - 엘라스틱서치 인덱스와 샤드 분할 [2020-07-23]
 [https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html){:target="_blank"}
