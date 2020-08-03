@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-07-16 20:00:00 -0400
+date: 2020-07-29 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 초집중
+- 집중력을 지배하고 원하는 인생을 사는 비결
+[http://mbook.interpark.com/shop/product/detail?prdNo=335119130](http://mbook.interpark.com/shop/product/detail?prdNo=335119130){:target="_blank"}
 
 ### - 은밀한 설계자들
 - 세상을 변화시키는 새로운 종족
