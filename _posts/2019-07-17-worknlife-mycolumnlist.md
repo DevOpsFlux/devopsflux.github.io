@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-08-03 20:00:00 -0400
+date: 2020-08-04 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 미치게 바쁠 때도 일을 처리할 수 있는 방법 [2020-08-04]
+[https://m.post.naver.com/viewer/postView.nhn?volumeNo=16506976](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16506976){:target="_blank"}
 
 ### - 미치게 바쁠 때도 일을 처리할 수 있는 방법 [2020-08-03]
 [https://ppss.kr/archives/222530](https://ppss.kr/archives/222530){:target="_blank"}

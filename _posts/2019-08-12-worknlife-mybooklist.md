@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-07-29 20:00:00 -0400
+date: 2020-08-05 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 한 장 보고서의 정석
+- OPR (ONE PAGE REPORT) / 일 잘하는 사람들만 아는 한 장 정리의 기술 3가지
+[http://mbook.interpark.com/shop/product/detail?prdNo=286797111](http://mbook.interpark.com/shop/product/detail?prdNo=286797111){:target="_blank"}
 
 ### - 초집중
 - 집중력을 지배하고 원하는 인생을 사는 비결
