@@ -2,12 +2,18 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-08-04 20:00:00 -0400
+date: 2020-08-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 좋은 중간관리자로, 팀월들 일도 잘 시키고 싶다면? [2020-08-10]
+[https://brunch.co.kr/@alexkang/495](https://brunch.co.kr/@alexkang/495){:target="_blank"}
+
+### - 현재 <개발자>인데 "프로덕트매니저"가 되고 싶다구요? [2020-08-10]
+[https://brunch.co.kr/@ywkim36/17](https://brunch.co.kr/@ywkim36/17){:target="_blank"}
 
 ### - 기획서 잘 못써서 맨날 까이는 당신이 반드시 들어야 할 대답 [2020-08-04]
 [https://www.youtube.com/watch?v=FOa31-UrFGE](https://www.youtube.com/watch?v=FOa31-UrFGE){:target="_blank"}

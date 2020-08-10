@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-07-23 20:00:00 -0400
+date: 2020-08-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - Redis용 Amazon ElastiCache로 애플리케이션 성능 향상과 비용 절감하기 [2020-08-10]
+[https://cloud.hosting.kr/techblog_190403_amazon-elasticache-for-redis/](https://cloud.hosting.kr/techblog_190403_amazon-elasticache-for-redis/){:target="_blank"}
 
 ### - 차세대, 리팩토링 그리고 애자일 [2020-07-27]
 [https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/){:target="_blank"}
