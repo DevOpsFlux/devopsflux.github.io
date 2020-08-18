@@ -9,6 +9,9 @@ tags: life
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
+### - 기술 문서 작성 5단계 [2020-08-18]
+[https://tech.kakaoenterprise.com/65](https://tech.kakaoenterprise.com/65){:target="_blank"}
+
 ### - Redis용 Amazon ElastiCache로 애플리케이션 성능 향상과 비용 절감하기 [2020-08-10]
 [https://cloud.hosting.kr/techblog_190403_amazon-elasticache-for-redis/](https://cloud.hosting.kr/techblog_190403_amazon-elasticache-for-redis/){:target="_blank"}
 
