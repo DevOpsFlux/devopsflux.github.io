@@ -2,12 +2,18 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-08-10 20:00:00 -0400
+date: 2020-08-23 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 지금부터 시작하는 3가지 좋은 글쓰기 습관 [2020-08-23]
+[https://oowgnoj.dev/review/output-training](https://oowgnoj.dev/review/output-training){:target="_blank"}
+
+### - 일 잘하는 사람들의 5가지 사고방식 [2020-08-14]
+[https://ppss.kr/archives/199021](https://ppss.kr/archives/199021){:target="_blank"}
 
 ### - 좋은 중간관리자로, 팀월들 일도 잘 시키고 싶다면? [2020-08-10]
 [https://brunch.co.kr/@alexkang/495](https://brunch.co.kr/@alexkang/495){:target="_blank"}
