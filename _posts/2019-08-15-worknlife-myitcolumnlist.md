@@ -2,15 +2,18 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-08-10 20:00:00 -0400
+date: 2020-08-30 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
-### - Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기 [2020-08-18]
-[https://www.popit.kr/golang%EC%97%90%EC%84%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EA%B7%B8%EB%A3%B9%EA%B3%BC-%EC%9E%AC%EC%8B%9C%EB%8F%84%EB%A1%9C-%EA%B2%B0%EA%B3%BC%EC%A0%81-%EC%9D%BC%EA%B4%80/](https://www.popit.kr/Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기){:target="_blank"}
+### - 소프트웨어 아키텍쳐의 중요성 [2020-08-30]
+[https://m.youtube.com/watch?v=4E1BHTvhB7Y](https://m.youtube.com/watch?v=4E1BHTvhB7Y){:target="_blank"}
+
+### - 캐시 성능 향상기 (Improving Cache Speed at Scale) [2020-08-30]
+[https://meetup.toast.com/posts/251](https://meetup.toast.com/posts/251){:target="_blank"}
 
 ### - 기술 문서 작성 5단계 [2020-08-18]
 [https://tech.kakaoenterprise.com/65](https://tech.kakaoenterprise.com/65){:target="_blank"}

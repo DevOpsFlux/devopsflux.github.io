@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-08-23 20:00:00 -0400
+date: 2020-08-31 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 내 문장이 그렇게 이상한가요? [2020-08-31]
+[https://medium.com/@garimoo/%EB%82%B4-%EB%AC%B8%EC%9E%A5%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94-f53e1f3c8448](https://medium.com/@garimoo/내-문장이-그렇게-이상한가요-f53e1f3c8448){:target="_blank"}
 
 ### - 지금부터 시작하는 3가지 좋은 글쓰기 습관 [2020-08-23]
 [https://oowgnoj.dev/review/output-training](https://oowgnoj.dev/review/output-training){:target="_blank"}

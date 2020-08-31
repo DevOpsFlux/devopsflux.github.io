@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-08-05 20:00:00 -0400
+date: 2020-08-31 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 내 문장이 그렇게 이상한가요?
+- 내가 쓴 글, 내가 다듬는 법
+[http://mbook.interpark.com/shop/product/detail?prdNo=249608694](http://mbook.interpark.com/shop/product/detail?prdNo=249608694){:target="_blank"}
 
 ### - 한 장 보고서의 정석
 - OPR (ONE PAGE REPORT) / 일 잘하는 사람들만 아는 한 장 정리의 기술 3가지
