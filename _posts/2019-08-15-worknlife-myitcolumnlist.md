@@ -2,12 +2,20 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-08-30 20:00:00 -0400
+date: 2020-09-01 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - 캐싱 관련 당면 과제 및 전략 [2020-09-01]
+[https://aws.amazon.com/ko/builders-library/caching-challenges-and-strategies/](https://aws.amazon.com/ko/builders-library/caching-challenges-and-strategies/){:target="_blank"}
+[https://d1.awsstatic.com/ko_KR/builderslibrary/pdfs/caching-challenges-and-strategies.pdf?did=ba_card-body&trk=ba_card-body](caching-challenges-and-strategies.pdf){:target="_blank"}
+
+### - Cache-Aside Pattern [2020-09-01]
+[https://docs.microsoft.com/ko-kr/azure/architecture/patterns/cache-aside](https://docs.microsoft.com/ko-kr/azure/architecture/patterns/cache-aside){:target="_blank"}
+[https://brunch.co.kr/@springboot/151](https://brunch.co.kr/@springboot/151){:target="_blank"}
 
 ### - 소프트웨어 아키텍쳐의 중요성 [2020-08-30]
 [https://m.youtube.com/watch?v=4E1BHTvhB7Y](https://m.youtube.com/watch?v=4E1BHTvhB7Y){:target="_blank"}

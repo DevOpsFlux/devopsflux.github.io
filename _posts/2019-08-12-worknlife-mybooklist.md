@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-08-31 20:00:00 -0400
+date: 2020-09-01 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 공부머리 독서법
+- 실현 가능하고 지속 가능한 독서교육의 모든 것
+[http://mbook.interpark.com/shop/product/detail?prdNo=282818229](http://mbook.interpark.com/shop/product/detail?prdNo=282818229){:target="_blank"}
 
 ### - 내 문장이 그렇게 이상한가요?
 - 내가 쓴 글, 내가 다듬는 법
