@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-09-01 20:00:00 -0400
+date: 2020-09-03 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 30년만의 휴식
+- 마음의 평안과 자유를 얻은
+[http://mbook.interpark.com/shop/product/detail?prdNo=11433148](http://mbook.interpark.com/shop/product/detail?prdNo=11433148){:target="_blank"}
 
 ### - 공부머리 독서법
 - 실현 가능하고 지속 가능한 독서교육의 모든 것
