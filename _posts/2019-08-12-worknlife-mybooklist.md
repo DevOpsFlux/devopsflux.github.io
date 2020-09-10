@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-09-03 20:00:00 -0400
+date: 2020-09-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 고요할수록 밝아지는 것들
+- 혜민 스님과 함께 지혜와 평온으로 가는 길
+[http://mbook.interpark.com/shop/product/detail?prdNo=296803929](http://mbook.interpark.com/shop/product/detail?prdNo=296803929){:target="_blank"}
 
 ### - 30년만의 휴식
 - 마음의 평안과 자유를 얻은
