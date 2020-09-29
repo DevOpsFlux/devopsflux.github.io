@@ -13,13 +13,14 @@ tags: redis setup
 - [https://msopentech.com/opentech-projects/redis/ ](https://msopentech.com/opentech-projects/redis/ ){:target="_blank"}
 - Windows 버전 Redis는 MS Open Tech 그룹의 GitHub 저장소
 - [https://github.com/MSOpenTech/redis](https://github.com/MSOpenTech/redis){:target="_blank"}
+- Redis-x64-3.2.100.msi
 
 2. Redis 설정 및 실행
 - redis-server.exe
 - redis-cli.exe
 - redis-cli -h host -p port -p password
 - Redis 기본 포트 : 6379
-- 설정파일지정 실행 : redis-server redis.windows.conf
+- * 설정파일지정 실행 : redis-server redis.windows.conf
 
 3. Redis Windows Service 등록/실행
 ```
@@ -56,3 +57,4 @@ tags: redis setup
 ![img1](/assets/img/post/redis/img1.jpg)
 ![img2](/assets/img/post/redis/img2.jpg)
 ![img3](/assets/img/post/redis/img3.jpg)
+![img3](/assets/img/post/redis/img4.jpg)
