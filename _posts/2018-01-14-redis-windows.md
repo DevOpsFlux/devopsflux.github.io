@@ -57,4 +57,4 @@ tags: redis setup
 ![img1](/assets/img/post/redis/img1.jpg)
 ![img2](/assets/img/post/redis/img2.jpg)
 ![img3](/assets/img/post/redis/img3.jpg)
-![img3](/assets/img/post/redis/img4.jpg)
+![img4](/assets/img/post/redis/img4.jpg)
