@@ -10,7 +10,7 @@ tags: life
 ## FLUX 의 BOOK 리스트
 
 ### - 폴리매스
-- 한계를 거부하는 다재다능함의 힘
+- 한계를 거부하는 다재다능함의 힘 
 [http://mbook.interpark.com/shop/product/detail?prdNo=339742897](http://mbook.interpark.com/shop/product/detail?prdNo=339742897){:target="_blank"}
 
 ### - 고요할수록 밝아지는 것들
