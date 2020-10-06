@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-09-10 20:00:00 -0400
+date: 2020-10-05 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 폴리매스
+- 한계를 거부하는 다재다능함의 힘
+[http://mbook.interpark.com/shop/product/detail?prdNo=339742897](http://mbook.interpark.com/shop/product/detail?prdNo=339742897){:target="_blank"}
 
 ### - 고요할수록 밝아지는 것들
 - 혜민 스님과 함께 지혜와 평온으로 가는 길
