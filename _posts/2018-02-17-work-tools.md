@@ -2,7 +2,7 @@
 layout: post
 title: "프로젝트 관리 및 업무 협업 Tools"
 subtitle:   "프로젝트 관리 및 업무 협업 툴 소개"
-date: 2018-02-17 20:00:00 -0400
+date: 2020-10-12 20:00:00 -0400
 categories: tip
 tags: tools
 ---
@@ -17,10 +17,15 @@ tags: tools
 - Pivotal Tracker 
 - Agit 
 - Jandi
+- Notion
 
 ## 커뮤니케이션 툴
 - Slack, Telegram, Band, 사내 메신져
 
+### Notion ( All-in-one workspace)
+- Notion 정보 : https://www.notion.so/
+- Notion Tutorial : https://www.notion.so/Notion-Tutorial-X-ABONEU-3cee21ebb7a4404cbf31a2e8cc98d5b9
+- 업무정리 및 홈페이지, 협업페이지 등 다양한 컨셉으로 활용 가능. 템플릿 다양.
 
 ### Pivotal Tracker
 - Pivotal Tracker vs Trello
