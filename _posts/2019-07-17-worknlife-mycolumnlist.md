@@ -2,12 +2,24 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-08-31 20:00:00 -0400
+date: 2020-10-14 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 적을 안 만드는 최고의 방법 [2020-10-13]
+[http://moneyman.kr/archives/7289](http://moneyman.kr/archives/7289){:target="_blank"}
+
+### - 퇴직을 두려워하지 않아야 하는 이유-죽고자 하면 산다! [2020-10-12]
+[https://brunch.co.kr/@utoskin/109](https://brunch.co.kr/@utoskin/109){:target="_blank"}
+
+### - 40대 아버지가 퇴사를 고민 한다면 [2020-10-11]
+[https://1boon.kakao.com/kickthecompany/5d185d10b71f8f2ee030f1c0](https://1boon.kakao.com/kickthecompany/5d185d10b71f8f2ee030f1c0){:target="_blank"}
+
+### - MBO 작성을 요청하기 전에 안내해야 할 사항 [2020-10-09]
+[https://hrbulletin.net/goals/목표설정-쉬워-보이지만-결코-쉽지-않은/](https://hrbulletin.net/goals/목표설정-쉬워-보이지만-결코-쉽지-않은/){:target="_blank"}
 
 ### - 내 문장이 그렇게 이상한가요? [2020-08-31]
 [https://medium.com/@garimoo/%EB%82%B4-%EB%AC%B8%EC%9E%A5%EC%9D%B4-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94-f53e1f3c8448](https://medium.com/@garimoo/내-문장이-그렇게-이상한가요-f53e1f3c8448){:target="_blank"}

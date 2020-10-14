@@ -38,6 +38,43 @@ tags: redis setup
  net start redis
 ```
 
+***
+# Docker Redis 설정
+## 1
+docker pull redis
+docker images
+docker run -it --name myredis -d -p 6379:6379 redis
+docker ps -al
+[redis-cli 접속, exit]  
+docker run -it --link myredis:redis --rm redis redis-cli -h redis -p 6379    
+myredis:6379> set test1 val1
+myredis:6379> get test1
+myredis:6379> set test2 val2
+myredis:6379> keys *
+
+----------------------
+## 2
+docker run -it -v ${PWD}:/data --name myredis -d -p 6379:6379 redis 
+docker ps -al
+[redis-cli 접속, exit]  
+docker run -it --link myredis:redis --rm redis redis-cli -h redis -p 6379    
+[redis-server 접속, exit]  
+docker exec -it myredis /bin/bash
+
+----------------------
+## 3
+docker network ls
+docker network create redis-net
+docker network ls
+docker run -it --name myredis -p 6379:6379 --network redis-net -v ${PWD}:/data -d redis redis-server --appendonly yes
+docker ps -al
+[redis-server 접속, exit]  
+docker exec -it myredis /bin/bash
+[redis-cli 접속, exit]  
+docker run -it --network redis-net --rm redis redis-cli -h myredis -p 6379
+
+***
+
 ## Redis 명령어
 - [http://redis.io/commands](http://redis.io/commands){:target="_blank"}
 
