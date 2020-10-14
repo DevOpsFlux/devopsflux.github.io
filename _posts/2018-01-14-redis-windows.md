@@ -64,6 +64,15 @@ docker run -it --link myredis:redis --rm redis redis-cli -h redis -p 6379
 docker exec -it myredis /bin/bash
 ```
 
+```
+// CMD
+docker run -it -v %cd%:/data --name myredis
+// PowerShell / Linux
+docker run -it -v ${PWD}:/data --name myredis
+docker run -it -v ${pwd}:/data --name myredis
+// Git bash shell
+docker run -it -v `pwd -W`:/data --name myredis
+```
 3. --network
 ```
 docker network ls
