@@ -40,7 +40,7 @@ tags: redis setup
 
 ***
 # Docker Redis 설정
-## 1
+1. bagic
 ```
 docker pull redis
 docker images
@@ -54,7 +54,7 @@ myredis:6379> set test2 val2
 myredis:6379> keys *
 ```
 ----------------------
-## 2
+2. --link 
 ```
 docker run -it -v ${PWD}:/data --name myredis -d -p 6379:6379 redis 
 docker ps -al
@@ -64,7 +64,7 @@ docker run -it --link myredis:redis --rm redis redis-cli -h redis -p 6379
 docker exec -it myredis /bin/bash
 ```
 ----------------------
-## 3
+3. --network
 ```
 docker network ls
 docker network create redis-net
