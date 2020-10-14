@@ -53,7 +53,7 @@ myredis:6379> get test1
 myredis:6379> set test2 val2
 myredis:6379> keys *
 ```
-----------------------
+
 2. --link 
 ```
 docker run -it -v ${PWD}:/data --name myredis -d -p 6379:6379 redis 
@@ -63,7 +63,7 @@ docker run -it --link myredis:redis --rm redis redis-cli -h redis -p 6379
 [redis-server 접속, exit]  
 docker exec -it myredis /bin/bash
 ```
-----------------------
+
 3. --network
 ```
 docker network ls
