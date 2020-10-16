@@ -1,11 +1,10 @@
 
-## 소개
+## Intro
 
-Flux Tech Git Page
-
-
-Flux Tech Git Page
+다양한 경험과 생각을 공유 할 수 있는 블로그
 
 
-Flux Tech Git Page
+## Dependencies
 
+- jekyll
+- aiden
