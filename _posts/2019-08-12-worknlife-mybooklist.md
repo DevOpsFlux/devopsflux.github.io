@@ -7,6 +7,12 @@ categories: life
 tags: life
 ---
 
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-1ib0g6013cw1c" 
+ data-ad-width   = "320" 
+ data-ad-height  = "50"></ins> 
+<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+
 ## FLUX 의 BOOK 리스트
 
 ### - 아웃풋 트레이닝
