@@ -42,6 +42,14 @@ tags: life
 ### - 좋은 중간관리자로, 팀월들 일도 잘 시키고 싶다면? [2020-08-10]
 [https://brunch.co.kr/@alexkang/495](https://brunch.co.kr/@alexkang/495){:target="_blank"}
 
+
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-1ib0g6013cw1c" 
+ data-ad-width   = "320" 
+ data-ad-height  = "50"></ins> 
+<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+
+
 ### - 현재 <개발자>인데 "프로덕트매니저"가 되고 싶다구요? [2020-08-10]
 [https://brunch.co.kr/@ywkim36/17](https://brunch.co.kr/@ywkim36/17){:target="_blank"}
 
@@ -297,3 +305,9 @@ tags: life
 ### - 프로젝트는 정치다 [2018-12-23]
 [http://www.popit.kr/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-%EC%A0%95%EC%B9%98%EB%8B%A4/](http://www.popit.kr/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-%EC%A0%95%EC%B9%98%EB%8B%A4/){:target="_blank"}
 
+
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-1ib0g6013cw1c" 
+ data-ad-width   = "320" 
+ data-ad-height  = "50"></ins> 
+<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>

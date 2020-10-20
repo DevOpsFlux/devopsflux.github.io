@@ -43,6 +43,12 @@ tags: life
 ### - 엘라스틱서치 인덱스와 샤드 분할 [2020-07-23]
 [https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html](https://danawalab.github.io/elastic/2020/07/21/Elasticsearch-Index-Shard-How.html){:target="_blank"}
 
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-1ib0g6013cw1c" 
+ data-ad-width   = "320" 
+ data-ad-height  = "50"></ins> 
+<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+
 ### - TCP의 흐름제어, 오류제어, 혼잡제어 개념에 대한 개요 [2020-07-11]
 [https://roka88.dev/114](https://roka88.dev/114){:target="_blank"}
 
@@ -164,3 +170,10 @@ tags: life
 
 ### - 소프트웨어 집단의 부패 [2017-11-09]
 [https://medium.com/@jwyeom63/소프트웨어-집단의-부패-expert-beginner의-유산-9d226b6ebde2](https://medium.com/@jwyeom63/소프트웨어-집단의-부패-expert-beginner의-유산-9d226b6ebde2){:target="_blank"}
+
+
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-1ib0g6013cw1c" 
+ data-ad-width   = "320" 
+ data-ad-height  = "50"></ins> 
+<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
