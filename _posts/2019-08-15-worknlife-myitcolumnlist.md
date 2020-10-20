@@ -2,12 +2,17 @@
 layout: post
 title: "나만의 IT Tech 칼럼 스크랩"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-09-01 20:00:00 -0400
+date: 2020-10-20 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - AWS의 블록체인 서비스 활용 방법 [2020-10-20]
+- AWS Managed Blockchain Service
+- AWS Quantum Ledger Database(QLDB)
+[https://www.youtube.com/watch?v=ig1Nzuk-EHA&feature=youtu.be](https://www.youtube.com/watch?v=ig1Nzuk-EHA&feature=youtu.be){:target="_blank"}
 
 ### - 캐싱 관련 당면 과제 및 전략 [2020-09-01]
 [https://aws.amazon.com/ko/builders-library/caching-challenges-and-strategies/](https://aws.amazon.com/ko/builders-library/caching-challenges-and-strategies/){:target="_blank"}
