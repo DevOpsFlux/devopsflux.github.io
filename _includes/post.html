@@ -22,6 +22,13 @@
     {% endunless %}
   {% endfor %}
 
+	<!-- AdFit POST 광고 -->
+	<ins class="kakao_ad_area" style="display:none;" 
+	 data-ad-unit    = "DAN-1ib0g6013cw1c" 
+	 data-ad-width   = "320" 
+	 data-ad-height  = "50"></ins> 
+	<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+
   {% unless include.excerpt %}
     <div class="markdown-body">
 {% if post.header-img %}<div class="head-image"><img src="{{ site.url }}/{% if post.header-img %}assets/{{ post.header-img }}{% endif %}"/></div>
