@@ -7,12 +7,6 @@ categories: life
 tags: life
 ---
 
-<ins class="kakao_ad_area" style="display:none;" 
- data-ad-unit    = "DAN-1ib0g6013cw1c" 
- data-ad-width   = "320" 
- data-ad-height  = "50"></ins> 
-<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
-
 ## FLUX 의 BOOK 리스트
 
 ### - 아웃풋 트레이닝
@@ -176,10 +170,3 @@ tags: life
 ### - 비트코인, 블록체인과 금융의 혁신 
 - 금융계에 돌풍을 일으키고 있는 비트코인 필수지침서!
 [http://mbook.interpark.com/shop/product/detail?prdNo=245135046](http://mbook.interpark.com/shop/product/detail?prdNo=245135046){:target="_blank"}
-
-
-<ins class="kakao_ad_area" style="display:none;" 
- data-ad-unit    = "DAN-1ib0g6013cw1c" 
- data-ad-width   = "320" 
- data-ad-height  = "50"></ins> 
-<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
