@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Windows Server 성능 모니터링 - Perfmon"
+title: "서버 성능 모니터링 - Perfmon"
 subtitle:   "Windows Server 성능 모니터링 활용"
 date: 2020-10-21 20:00:00 -0400
 categories: tip
 tags: tools
 ---
 
-# 성능모니터 설정 : Performance Counter
+## 성능모니터 설정 : Performance Counter
 - 실행창(Windows Key + R) > perfmon.msc
 - 제어판 > 관리 도구 > 성능 모니터
 - 서버관리자 > 도구 > 성능모니터
+
 ```
 1. 성능모니터 로그 수집 설정
  - 성능모니터 > 데이터 수집기 집합 > 사용자 정의 > 새로만들기 > 데이터 수집기 집합 추가
@@ -23,7 +24,6 @@ tags: tools
  - Active Server Page > Requests Executing (처리 중인 요청 수)
  - Active Server Page > Requests Executtion Time (요청 처리 시간)
  - Active Server Page > Requests Disconnected (통신 오류로 인해 연결이 끊어진 요청 수)
-
  - Active Server Pages\Request Wait Time : 가장 최근의 요청이 큐에서 기다리는 밀리세컨드 수
  - Active Server Pages\Requests Queued : 처리되기 위해 기다리는 요청 수
  - Active Server Pages\Requests Rejected : 실행되지 않는 전체 요청 수. 요청이 실행되지 얂는 이유는 처리할 리소스가 없기 때문이다.
@@ -31,7 +31,7 @@ tags: tools
 ```
 
 ---
-# ※ 주요 모니터링 항목
+## ※ 주요 모니터링 항목
 ```
  - Current Connections : 현재 연결 수 (Client와 연결된 TCP Connection의 개수)
  - Users/sec : 동시 접속자 수(현재 처리 중인 익명 사용자의 요청 수/초)
@@ -56,19 +56,19 @@ tags: tools
  - 서버 리소스 부족으로 인해 처리되지 않은 총 요청 수입니다. 이 카운터는 서버가 사용 중임을 나타내는 HTTP 503 상태 코드를 반환하는 요청 수를 나타냅니다.
 ```
 
-## 성능모니터 모니터링
+### 성능모니터 모니터링
 ![img01](/assets/img/post/perfmon/img01.jpg)
 ![img02](/assets/img/post/perfmon/img02.jpg)
 ![img03](/assets/img/post/perfmon/img03.jpg)
 
-## 성능모니터 로그 
+### 성능모니터 로그 
 ![img05](/assets/img/post/perfmon/img05.jpg)
 
-## Performance Counter 및 nGrinder 성능 모니터
+### Performance Counter 및 nGrinder 성능 모니터
 ![img07](/assets/img/post/perfmon/img07.jpg)
 ![img08](/assets/img/post/perfmon/img08.jpg)
 
-## EMS Solution - POLESTAR 모니터링
+### EMS Solution - POLESTAR 모니터링
 ![img06](/assets/img/post/perfmon/img06.jpg)
 
 [ 참고 자료 ]
