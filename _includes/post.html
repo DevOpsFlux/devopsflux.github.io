@@ -41,7 +41,9 @@
 		</script>
 		<br/>
       {{ post.content }}
-		<br/>
+		<br/><br/>
+
+    </div>
 
 <!-- AdFit POST 광고 -->
 <ins class="kakao_ad_area" style="display:none;" 
@@ -61,7 +63,6 @@
 			 (adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
 
-    </div>
   {% else %}
     {{ post.excerpt }}
     <p class="read-more"><a class="heading" href="{{ post.url | relative_url }}" data-flip="title">Continue reading </a></p>
