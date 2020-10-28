@@ -2,14 +2,17 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-10-18 20:00:00 -0400
+date: 2020-10-21 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
 
-### - 뭘 해도 잘하는 사람의 6가지 특징 [2020-10-18]
+### - 처음 만나는 사람에게 호감과 좋은인상을 얻는 10가지 법칙 [2020-10-21]
+[https://dhpassion.tistory.com/404](https://dhpassion.tistory.com/404){:target="_blank"}
+
+### - 뭘 해도 잘하는 사람의 6가지 특징 [2020-10-19]
 [https://brunch.co.kr/@bkys/28?fbclid=IwAR0v37UQQQMvz9LcWB4G8Tu21jEOBv3kR2s57BjWFXxt4KWYK1IxWQtE-Yc](https://brunch.co.kr/@bkys/28?fbclid=IwAR0v37UQQQMvz9LcWB4G8Tu21jEOBv3kR2s57BjWFXxt4KWYK1IxWQtE-Yc){:target="_blank"}
 
 ### - 정신력이 강한 사람들의 특별한 사고습관 13가지 [2020-10-17]

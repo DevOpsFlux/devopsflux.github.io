@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-10-16 20:00:00 -0400
+date: 2020-10-27 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 규칙 없음
+- 넷플릭스, 지구상 가장 빠르고 유연한 기업의 비밀
+[http://mbook.interpark.com/shop/product/detail?prdNo=337813175](http://mbook.interpark.com/shop/product/detail?prdNo=337813175){:target="_blank"}
 
 ### - 아웃풋 트레이닝
 - 적게 일하고 더 많이 인생을 즐기는 방법
