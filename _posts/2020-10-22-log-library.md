@@ -37,7 +37,7 @@ tags: etc
 ![img06](/assets/img/post/loglib/img06.jpg)
 ![img07](/assets/img/post/loglib/img07.jpg)
 
-## 티켓 접근 로그 라이브러리 선정
+## 접근 로그 라이브러리 선정
 - 로그 유형별 테스트 결과 로그 유실율이 낮은 NLog 라이브러리를 최종 선정
 
 ## NLog  
