@@ -2,12 +2,20 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-10-27 20:00:00 -0400
+date: 2020-11-04 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - 신뢰의 속도
+- 신뢰가 높아지면 속도는 빨라지고 비용은 내려간다!
+[http://mbook.interpark.com/shop/product/detail?prdNo=286982162](http://mbook.interpark.com/shop/product/detail?prdNo=286982162){:target="_blank"}
+
+### - 결국, 공부는 지식을 정리하는 기술
+- 당신의 머릿속 뒤엉킨 지식들을 말끔히 정리해주는 공부법
+[http://mbook.interpark.com/shop/product/detail?prdNo=301274160](http://mbook.interpark.com/shop/product/detail?prdNo=301274160){:target="_blank"}
 
 ### - 규칙 없음
 - 넷플릭스, 지구상 가장 빠르고 유연한 기업의 비밀
