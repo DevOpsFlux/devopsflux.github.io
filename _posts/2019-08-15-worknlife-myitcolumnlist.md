@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "나만의 IT Tech 칼럼 스크랩"
+zo
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-10-20 20:00:00 -0400
+date: 2020-11-03 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - [미래의 현재] '클라우드 네이티브'란 무엇인가? [2020-11-03]
+[https://brunch.co.kr/@futureplay/45](https://brunch.co.kr/@futureplay/45){:target="_blank"}
+
+### - 캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안  [2020-10-26]
+[https://jam2in.medium.com/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-2a9b26c65168](https://jam2in.medium.com/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-2a9b26c65168){:target="_blank"}
+
+### - Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기  [2020-10-22]
+[https://www.popit.kr/golang%EC%97%90%EC%84%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EA%B7%B8%EB%A3%B9%EA%B3%BC-%EC%9E%AC%EC%8B%9C%EB%8F%84%EB%A1%9C-%EA%B2%B0%EA%B3%BC%EC%A0%81-%EC%9D%BC%EA%B4%80/](https://www.popit.kr/golang%EC%97%90%EC%84%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EA%B7%B8%EB%A3%B9%EA%B3%BC-%EC%9E%AC%EC%8B%9C%EB%8F%84%EB%A1%9C-%EA%B2%B0%EA%B3%BC%EC%A0%81-%EC%9D%BC%EA%B4%80/){:target="_blank"}
 
 ### - AWS의 블록체인 서비스 활용 방법 [2020-10-20]
 - AWS Managed Blockchain Service
