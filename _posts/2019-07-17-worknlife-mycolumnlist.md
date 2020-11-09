@@ -2,12 +2,18 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-10-21 20:00:00 -0400
+date: 2020-11-09 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 아마존 식스 페이저(6-pager) 글쓰기 [2020-11-09]
+[https://www.youtube.com/watch?v=BKz1uC9-KNk&feature=share](https://www.youtube.com/watch?v=BKz1uC9-KNk&feature=share){:target="_blank"}
+[https://www.youtube.com/watch?v=XZ4c9Tf5nc4](https://www.youtube.com/watch?v=XZ4c9Tf5nc4){:target="_blank"}
+[http://blog.creation.net/channy-cloud-clinic-ep4](http://blog.creation.net/channy-cloud-clinic-ep4){:target="_blank"}
+[https://brunch.co.kr/@abrahamsong/58](https://brunch.co.kr/@abrahamsong/58){:target="_blank"}
 
 ### - 처음 만나는 사람에게 호감과 좋은인상을 얻는 10가지 법칙 [2020-10-21]
 [https://dhpassion.tistory.com/404](https://dhpassion.tistory.com/404){:target="_blank"}
