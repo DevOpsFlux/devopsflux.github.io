@@ -1,6 +1,6 @@
 ---
 layout: post
-zo
+title: "IT Tech 칼럼 리스트"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
 date: 2020-11-03 20:00:00 -0400
 categories: life
@@ -8,6 +8,15 @@ tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - 비대면서비스 산업동향 및 기술현황 [2020-11-11]
+[https://drive.google.com/file/d/1oeMnxeD6PCAcl_CY7ajk7ry0SDFBykTs/viewi](https://drive.google.com/file/d/1oeMnxeD6PCAcl_CY7ajk7ry0SDFBykTs/viewi){:target="_blank"}
+
+### - QUIC 으로 수십억 트래픽 대응하기 [2020-11-08]
+[https://www.notion.so/QUIC-a6f0f26119a4417492e365134aa107bb](https://www.notion.so/QUIC-a6f0f26119a4417492e365134aa107bb){:target="_blank"}
+
+### - QUIC을 향한 여정 [2020-11-05]
+[https://velog.io/@wsong0101/QUIC을-향한-여정번역](https://velog.io/@wsong0101/QUIC을-향한-여정번역){:target="_blank"}
 
 ### - [미래의 현재] '클라우드 네이티브'란 무엇인가? [2020-11-03]
 [https://brunch.co.kr/@futureplay/45](https://brunch.co.kr/@futureplay/45){:target="_blank"}
