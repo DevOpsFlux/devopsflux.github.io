@@ -2,7 +2,7 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-11-04 20:00:00 -0400
+date: 2020-11-22 20:00:00 -0400
 categories: life
 tags: life
 ---

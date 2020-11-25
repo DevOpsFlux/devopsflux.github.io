@@ -2,7 +2,7 @@
 layout: post
 title: "IT Tech 칼럼 리스트"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-11-03 20:00:00 -0400
+date: 2020-11-20 20:00:00 -0400
 categories: life
 tags: life
 ---

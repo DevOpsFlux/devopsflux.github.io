@@ -2,12 +2,18 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-11-09 20:00:00 -0400
+date: 2020-11-17 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수 [2020-11-17]
+[https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html){:target="_blank"}
+
+### - 팀장을 위한 1:1 면담 가이드 [2020-11-15]
+[https://hrbulletin.net/resources/tools/%ED%8C%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-11-%EB%A9%B4%EB%8B%B4-%EA%B0%80%EC%9D%B4%EB%93%9C/](https://hrbulletin.net/resources/tools/%ED%8C%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-11-%EB%A9%B4%EB%8B%B4-%EA%B0%80%EC%9D%B4%EB%93%9C/){:target="_blank"}
 
 ### - 아마존 식스 페이저(6-pager) 글쓰기 [2020-11-09]
 [https://www.youtube.com/watch?v=BKz1uC9-KNk&feature=share](https://www.youtube.com/watch?v=BKz1uC9-KNk&feature=share){:target="_blank"}
