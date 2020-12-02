@@ -86,6 +86,8 @@ Edgardo Yu, UN World Food Programme Chief of Beneficiary Services, Technology Di
  
 [[Day 1] UDC 2020](https://www.youtube.com/watch?v=WYIBN8jk3d4)
 
+[유엔세계식량계획(World Food Programme) 2020 노벨평화상 수상!](https://m.blog.naver.com/wfpkorea/222115621436)
+
 ---
 ## [Day 2] UDC 2020
 ```
