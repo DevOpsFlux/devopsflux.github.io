@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blockchain UDC 2020 Review - 2Day"
-subtitle:   "Blockchain UDC 2020 온라인 컨퍼런스 후기 - 2Day"
+subtitle:   "블록체인 UDC 2020 온라인 컨퍼런스 후기 - 2Day"
 date: 2020-12-02 20:00:00 -0400
 categories: review
 tags: blockchain review
