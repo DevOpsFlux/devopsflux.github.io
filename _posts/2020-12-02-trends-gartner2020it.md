@@ -69,4 +69,4 @@ tags: it trends
 
 ---
 #### 참고 자료
-[가트너, 2020년 10대 전략 기술 트렌드 발표 - 과학기술정보통신부](https://www.itworld.co.kr/news/134527)
+[가트너, 2020년 10대 전략 기술 트렌드 발표 - 과학기술정보통신부](https://www.itworld.co.kr/news/134527){:target="_blank"}
