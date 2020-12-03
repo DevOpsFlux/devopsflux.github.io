@@ -62,8 +62,8 @@ Blockchain Keywords for 2021: DeFi
 - 저당부채창고의 저당채무비율 산정
 - DAI 보유자가 전체를 청산할 때 받을 저당자산 가치 결정
 
-![Maker protocol img](/assets/img/post/blockchain/udc2020/defi-01.png)
-![Ethereum ecosystem img](/assets/img/post/blockchain/udc2020/defi-02.png)
+![Maker protocol img](/assets/img/post/blockchain/udc2020/defi-01.JPG)
+![Ethereum ecosystem img](/assets/img/post/blockchain/udc2020/defi-02.JPG)
 
 [[Day 3] UDC 2020](https://www.youtube.com/watch?v=aXqJhAwj8z0){:target="_blank"}
 [메이커 프로토콜: 메이커다오의 다중 담보 다이(MCD) 시스템](https://makerdao.com/ko/whitepaper/){:target="_blank"}
