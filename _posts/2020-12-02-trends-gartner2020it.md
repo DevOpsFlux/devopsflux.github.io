@@ -2,7 +2,7 @@
 layout: post
 title: "가트너, 2020년 10대 전략 기술 트렌드 발표"
 subtitle:   "가트너 선정 2020년 10대 전략 기술 트렌드 분석 발표"
-date: 2020-12-01 20:00:00 -0400
+date: 2020-11-28 20:00:00 -0400
 categories: trends
 tags: it trends
 ---
