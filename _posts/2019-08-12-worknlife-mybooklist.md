@@ -2,12 +2,22 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-11-22 20:00:00 -0400
+date: 2020-12-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - [어린이] 이게 정말 뭘까?
+- 상상력 천재 요시타케 신스케의 새로운 ‘생각’ 그림책
+- 학교, 즐거움, 거짓말, 나, 그리고 꿈까지 문득 떠오른 열두 가지 생각에 관한 즐거운 상상!
+- 세상을 조금 더 유연하게 바라보는 방법
+[http://mbook.interpark.com/shop/product/detail?prdNo=343547075](http://mbook.interpark.com/shop/product/detail?prdNo=343547075){:target="_blank"}
+
+### - [어린이] 이게 정말 나일까?
+- 내가 누구이며 어떤 것을 좋아하고 싫어하는 사람인지를 조목조목 되짚어 볼 수 있는 책
+[http://mbook.interpark.com/shop/product/detail?prdNo=244064963](http://mbook.interpark.com/shop/product/detail?prdNo=244064963){:target="_blank"}
 
 ### - 신뢰의 속도
 - 신뢰가 높아지면 속도는 빨라지고 비용은 내려간다!
