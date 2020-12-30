@@ -36,6 +36,21 @@ tags: grafana setup
 ![img3](/assets/img/post/grafana/img03.PNG)
 
 
+## Grafana Docker
+```
+docker run -it --name mygrafana -d -p 3000:3000 grafana/grafana
+http://localhost:3000	admin/admin
+
+docker start mygrafana
+docker exec -it mygrafana /bin/bash
+
+grafana 에서 prometheus 접속 로컬 설정시 host.docker.internal 정보 확인
+http://localhost:3000 접속 실패 시 
+
+docker inspect myprometheus | grep "IP"
+=> IP Adress : http://172.17.0.3:9090
+```
+
 ## Grafana Plugins   
 - [https://grafana.com/plugins](https://grafana.com/plugins){:target="_blank"}
 - [https://grafana.com/docs/v3.1/plugins/installation/](https://grafana.com/docs/v3.1/plugins/installation/){:target="_blank"}
@@ -52,6 +67,9 @@ grafana-cli plugins install michaeldmoore-annunciator-panel
 - Download and install the URL Rewrite module for IIS : 
   [https://www.iis.net/downloads/microsoft/url-rewrite](https://www.iis.net/downloads/microsoft/url-rewrite){:target="_blank"}
 
+## Prometheus query editor
+- [https://grafana.com/docs/grafana/latest/datasources/prometheus/#prometheus-query-editor](https://grafana.com/docs/grafana/latest/datasources/prometheus/#prometheus-query-editor){:target="_blank"}
+
 
 ### 실행 화면
 
@@ -62,6 +80,10 @@ grafana-cli plugins install michaeldmoore-annunciator-panel
 ![img5](/assets/img/post/grafana/img05.PNG)
 
 ![img6](/assets/img/post/grafana/img06.PNG)
+
+![img8](/assets/img/post/grafana/img08.PNG)
+
+![img9](/assets/img/post/grafana/img09.PNG)
 
 
 
