@@ -85,5 +85,9 @@ grafana-cli plugins install michaeldmoore-annunciator-panel
 
 ![img9](/assets/img/post/grafana/img09.PNG)
 
+![img10](/assets/img/post/grafana/img10.PNG)
+
+![img11](/assets/img/post/grafana/img11.PNG)
+
 
 
