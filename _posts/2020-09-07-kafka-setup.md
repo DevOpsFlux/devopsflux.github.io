@@ -68,6 +68,9 @@ tags: kafka setup
 
 ### 참고
 [Apache Kafka Documentation](https://kafka.apache.org/documentation/){:target="_blank"}
+
 [Apache Kafka Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem){:target="_blank"}
+
 [Apache Kafka Monitoring](https://docs.confluent.io/platform/current/kafka/monitoring.html){:target="_blank"}
+
 [Apache Kafka Offset Monitor](https://github.com/Morningstar/kafka-offset-monitor){:target="_blank"}
