@@ -37,21 +37,19 @@ tags: kafka setup
 
 ## Kafka Docker 
 - http://wurstmeister.github.io/kafka-docker/
+
 ```
 1. kafka-docker repository
 	$ git clone https://github.com/wurstmeister/kafka-docker
 	$ cd kafka-docker
-
 2. docker-compose.yml 파일 수정
 - 내장 Zookeeper 사용
 - docker-compose-single-broker.yml
  > KAFKA_ADVERTISED_HOST_NAME: 127.0.0.1
-
 3. docker-compose 실행
 - docker-compose up -d
 	$ docker-compose -f docker-compose-single-broker.yml up -d
 	$ docker-compose logs / docker logs
-
 ```
 
 ## Kafka Manager on Windows
