@@ -2,12 +2,16 @@
 layout: post
 title: "BOOK 추천 리스트"
 subtitle:   "나만의 책 추천 리스트"
-date: 2020-12-10 20:00:00 -0400
+date: 2021-03-04 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 BOOK 리스트
+
+### - [어린이] 초등 1학년 공부, 하브루타로 시작하라
+- 진짜 공부가 시작되는 초등 1학년, 공부 잘하는 아이를 넘어 공부 즐기는 아이로 만드는 하브루타의 마법
+[http://mbook.interpark.com/shop/product/detail?prdNo=303108827](http://mbook.interpark.com/shop/product/detail?prdNo=303108827){:target="_blank"}
 
 ### - [어린이] 이게 정말 뭘까?
 - 상상력 천재 요시타케 신스케의 새로운 ‘생각’ 그림책
