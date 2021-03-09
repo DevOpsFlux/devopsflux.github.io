@@ -2,12 +2,15 @@
 layout: post
 title: "IT Tech 칼럼 리스트"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2020-11-20 20:00:00 -0400
+date: 2021-03-10 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - CentOS 종료...? [2021-03-10]
+[https://changwoo.xyz/hacks/2020/12/09/end-of-centos.html](https://changwoo.xyz/hacks/2020/12/09/end-of-centos.html){:target="_blank"}
 
 ### - 비대면서비스 산업동향 및 기술현황 [2020-11-11]
 [https://drive.google.com/file/d/1oeMnxeD6PCAcl_CY7ajk7ry0SDFBykTs/viewi](https://drive.google.com/file/d/1oeMnxeD6PCAcl_CY7ajk7ry0SDFBykTs/viewi){:target="_blank"}
