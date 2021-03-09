@@ -9,19 +9,9 @@ tags: life
 
 ## FLUX 의 BOOK 리스트
 
-### - [어린이] 초등 1학년 공부, 하브루타로 시작하라
-- 진짜 공부가 시작되는 초등 1학년, 공부 잘하는 아이를 넘어 공부 즐기는 아이로 만드는 하브루타의 마법
-[http://mbook.interpark.com/shop/product/detail?prdNo=303108827](http://mbook.interpark.com/shop/product/detail?prdNo=303108827){:target="_blank"}
-
-### - [어린이] 이게 정말 뭘까?
-- 상상력 천재 요시타케 신스케의 새로운 ‘생각’ 그림책
-- 학교, 즐거움, 거짓말, 나, 그리고 꿈까지 문득 떠오른 열두 가지 생각에 관한 즐거운 상상!
-- 세상을 조금 더 유연하게 바라보는 방법
-[http://mbook.interpark.com/shop/product/detail?prdNo=343547075](http://mbook.interpark.com/shop/product/detail?prdNo=343547075){:target="_blank"}
-
-### - [어린이] 이게 정말 나일까?
-- 내가 누구이며 어떤 것을 좋아하고 싫어하는 사람인지를 조목조목 되짚어 볼 수 있는 책
-[http://mbook.interpark.com/shop/product/detail?prdNo=244064963](http://mbook.interpark.com/shop/product/detail?prdNo=244064963){:target="_blank"}
+### - 팀장 리더십 수업
+- 혼자만 일 잘하는 팀장이 가장 쓸모없다
+[http://mbook.interpark.com/shop/product/detail?prdNo=347176394](http://mbook.interpark.com/shop/product/detail?prdNo=347176394){:target="_blank"}
 
 ### - 신뢰의 속도
 - 신뢰가 높아지면 속도는 빨라지고 비용은 내려간다!
@@ -106,10 +96,6 @@ tags: life
 ### - 클린 아키텍처 : 소프트웨어 구조와 설계의 원칙
 - 소프트웨어 구조와 설계의 원칙
 [http://mbook.interpark.com/shop/product/detail?prdNo=314531122](http://mbook.interpark.com/shop/product/detail?prdNo=314531122){:target="_blank"}
-
-### - [유아] 반이나 차 있을까 반밖에 없을까?
-- 어떤 사람에게는 반이나 차 있고, 어떤 사람에게는 반밖에 없다.
-[http://mbook.interpark.com/shop/product/detail?prdNo=201807186](http://mbook.interpark.com/shop/product/detail?prdNo=201807186){:target="_blank"}
 
 ### - 무례한 사람에게 웃으며 대처하는 법
 - 인생자체는 긍정적으로, 개소리에는 단호하게!
