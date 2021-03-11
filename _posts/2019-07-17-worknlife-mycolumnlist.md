@@ -13,6 +13,8 @@ tags: life
 [http://moneyman.kr/archives/12787](http://moneyman.kr/archives/12787){:target="_blank"}
 
 ### - 인생이 편해지는 4가지 태도 습관 [2021-03-05]
+- 당신 스스로 하지 않으면 아무도 당신의 운명을 개선해 주지 않는다
+- 적을 만들지 않는 것, 귀찮은 일을 함부로 떠맡지 않는 것, 위험한 걸 가볍게 다루지 않는 것, 웬만한 건 배려하는 여유를 갖는 것
 [http://moneyman.kr/archives/6774](http://moneyman.kr/archives/6774){:target="_blank"}
 
 ### - 자질 없는 리더보다 준비 없는 리더가 더 나쁘다 [2021-02-18]
