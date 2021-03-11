@@ -2,12 +2,21 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2020-11-17 20:00:00 -0400
+date: 2021-03-11 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 항상 겸손한 태도로 살아야 하는 이유 [2021-03-11]
+[http://moneyman.kr/archives/12787](http://moneyman.kr/archives/12787){:target="_blank"}
+
+### - 인생이 편해지는 4가지 태도 습관 [2021-03-05]
+[http://moneyman.kr/archives/6774](http://moneyman.kr/archives/6774){:target="_blank"}
+
+### - 자질 없는 리더보다 준비 없는 리더가 더 나쁘다 [2021-02-18]
+[https://ppss.kr/archives/236902](https://ppss.kr/archives/236902){:target="_blank"}
 
 ### - 개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수 [2020-11-17]
 [https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html){:target="_blank"}
