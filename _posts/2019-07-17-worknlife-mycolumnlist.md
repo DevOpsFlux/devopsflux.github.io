@@ -2,12 +2,18 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2021-03-11 20:00:00 -0400
+date: 2021-03-15 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 짧은 말이 무기가 된다 [2021-03-15]
+[https://sensio.tistory.com/609](https://sensio.tistory.com/609){:target="_blank"}
+
+### - 화나기 직전 흥분 없는 감정 컨트롤 요령 7가지 [2021-03-12]
+[https://dhpassion.tistory.com/m/615](https://dhpassion.tistory.com/m/615){:target="_blank"}
 
 ### - 항상 겸손한 태도로 살아야 하는 이유 [2021-03-11]
 [http://moneyman.kr/archives/12787](http://moneyman.kr/archives/12787){:target="_blank"}
