@@ -100,3 +100,12 @@ tags: kafka setup
 [Apache Kafka using Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html){:target="_blank"}
 
 [Apache Kafka Transactions : Exactly-Once-Delievery](https://www.confluent.io/blog/transactions-apache-kafka/){:target="_blank"}
+
+[Introduction to Schemas in Apache Kafka with the Confluent Schema Registry](https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321){:target="_blank"}
+
+[Confluent - Schema Evolution and Compatibility](https://docs.confluent.io/platform/current/schema-registry/avro.html#schema-evolution#schema-evolution){:target="_blank"}
+
+[Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리 #1](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-1-cdf8c99d2c5c){:target="_blank"}
+
+[Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리 #2](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-2-bfa96622a974){:target="_blank"}
+
