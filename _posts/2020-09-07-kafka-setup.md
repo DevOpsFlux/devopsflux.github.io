@@ -98,3 +98,5 @@ tags: kafka setup
 [Apache Kafka Offset Monitor](https://github.com/Morningstar/kafka-offset-monitor){:target="_blank"}
 
 [Apache Kafka using Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html){:target="_blank"}
+
+[Apache Kafka Transactions : Exactly-Once-Delievery](https://www.confluent.io/blog/transactions-apache-kafka/){:target="_blank"}
