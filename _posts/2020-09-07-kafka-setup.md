@@ -52,6 +52,19 @@ tags: kafka setup
 	$ docker-compose logs / docker logs
 ```
 
+```
+## Kafka-Docker Confluent Platform
+1. Kafka-Docker
+	curl --silent --output docker-compose.yml https://raw.githubusercontent.com/confluentinc/cp-all-in-one/6.1.0-post/cp-all-in-one/docker-compose.yml
+
+2. docker-compose
+	$ docker-compose up -d
+	$ docker-compose ps
+
+3. Confluent Platform
+	http://localhost:9021
+```
+
 ## Kafka Manager on Windows
 - https://www.scala-lang.org/download/ -> scala, sbt 다운
 - [참고] https://my.oschina.net/yogiwang/blog/2052253
@@ -66,6 +79,15 @@ tags: kafka setup
 
 ![img4](/assets/img/post/kafka/img04.JPG)
 
+![kafka-1](/assets/img/post/kafka/kafka-1.JPG)
+
+![kafka-2](/assets/img/post/kafka/kafka-2.JPG)
+
+![kafka-3](/assets/img/post/kafka/kafka-3.JPG)
+
+![kafka-4](/assets/img/post/kafka/kafka-4.JPG)
+
+
 ### 참고
 [Apache Kafka Documentation](https://kafka.apache.org/documentation/){:target="_blank"}
 
@@ -74,3 +96,5 @@ tags: kafka setup
 [Apache Kafka Monitoring](https://docs.confluent.io/platform/current/kafka/monitoring.html){:target="_blank"}
 
 [Apache Kafka Offset Monitor](https://github.com/Morningstar/kafka-offset-monitor){:target="_blank"}
+
+[Apache Kafka using Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html){:target="_blank"}
