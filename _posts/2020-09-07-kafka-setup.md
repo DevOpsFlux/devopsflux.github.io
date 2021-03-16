@@ -70,6 +70,13 @@ tags: kafka setup
 - [참고] https://my.oschina.net/yogiwang/blog/2052253
 - cmd > kafka manager 폴더 > sbt > (kafka-manager cli 진입) > compile > run
 
+## Kafka .NET Client
+- https://github.com/confluentinc/confluent-kafka-dotnet
+- https://docs.confluent.io/clients-confluent-kafka-dotnet/current/overview.html
+
+## kafka-go
+- https://github.com/segmentio/kafka-go
+
 ### 실행 화면
 ![img1](/assets/img/post/kafka/img01.JPG)
 
@@ -109,3 +116,4 @@ tags: kafka setup
 
 [Kafka 와 Confluent Schema Registry 를 사용한 스키마 관리 #2](https://medium.com/@gaemi/kafka-%EC%99%80-confluent-schema-registry-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%8A%A4%ED%82%A4%EB%A7%88-%EA%B4%80%EB%A6%AC-2-bfa96622a974){:target="_blank"}
 
+[How to choose the number of topics/partitions in a Kafka cluster?](https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster/){:target="_blank"}
