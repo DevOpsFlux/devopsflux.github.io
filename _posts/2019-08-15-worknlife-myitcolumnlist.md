@@ -9,6 +9,9 @@ tags: life
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
+### [카프카(Kafka)] 성능 관련 고찰 [2021-03-18]
+[https://team-platform.tistory.com/6](https://team-platform.tistory.com/6){:target="_blank"}
+
 ### - Container부터 다시 살펴보는 Kubernetes Pod 동작 원리 [2021-03-18]
 [https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri){:target="_blank"}
 
