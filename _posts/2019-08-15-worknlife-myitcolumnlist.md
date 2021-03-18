@@ -9,7 +9,7 @@ tags: life
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
 
-### [카프카(Kafka)] 성능 관련 고찰 [2021-03-18]
+### - [카프카(Kafka)] 성능 관련 고찰 [2021-03-18]
 [https://team-platform.tistory.com/6](https://team-platform.tistory.com/6){:target="_blank"}
 
 ### - Container부터 다시 살펴보는 Kubernetes Pod 동작 원리 [2021-03-18]
@@ -20,6 +20,9 @@ tags: life
 
 ### - Zombie에 대한 고찰 [2021-03-17]
 [https://www.joinc.co.kr/w/Site/system_programing/process/Zombie](https://www.joinc.co.kr/w/Site/system_programing/process/Zombie){:target="_blank"}
+
+### - 관리되는 스레드의 취소 : CancellationTokenSource [2021-03-16]
+[https://docs.microsoft.com/ko-kr/dotnet/standard/threading/cancellation-in-managed-threads](https://docs.microsoft.com/ko-kr/dotnet/standard/threading/cancellation-in-managed-threads){:target="_blank"}
 
 ### - CentOS 종료...? [2021-03-10]
 [https://changwoo.xyz/hacks/2020/12/09/end-of-centos.html](https://changwoo.xyz/hacks/2020/12/09/end-of-centos.html){:target="_blank"}
