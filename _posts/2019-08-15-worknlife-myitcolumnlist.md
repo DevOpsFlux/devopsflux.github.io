@@ -2,12 +2,21 @@
 layout: post
 title: "IT Tech 칼럼 리스트"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2021-03-10 20:00:00 -0400
+date: 2021-03-18 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - Container부터 다시 살펴보는 Kubernetes Pod 동작 원리 [2021-03-18]
+[https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri){:target="_blank"}
+
+### - Zombie 프로세스를 좀처럼 볼 수 없는 이유? [2021-03-17]
+[https://meetup.toast.com/posts/205](https://meetup.toast.com/posts/205){:target="_blank"}
+
+### - Zombie에 대한 고찰 [2021-03-17]
+[https://www.joinc.co.kr/w/Site/system_programing/process/Zombie](https://www.joinc.co.kr/w/Site/system_programing/process/Zombie){:target="_blank"}
 
 ### - CentOS 종료...? [2021-03-10]
 [https://changwoo.xyz/hacks/2020/12/09/end-of-centos.html](https://changwoo.xyz/hacks/2020/12/09/end-of-centos.html){:target="_blank"}
