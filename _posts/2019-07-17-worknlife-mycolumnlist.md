@@ -2,12 +2,15 @@
 layout: post
 title: "나만의 직장 생활 칼럼 스크랩"
 subtitle:   "직장생활 칼럼 스크랩"
-date: 2021-03-15 20:00:00 -0400
+date: 2021-03-25 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 직장 생활 칼럼 스크랩 리스트
+
+### - 힘든 인간관계를 부드럽게 만드는 ‘그러려니..’ 명상법10가지 [2021-03-25]
+[https://dhpassion.tistory.com/m/480](https://dhpassion.tistory.com/m/480){:target="_blank"}
 
 ### - 짧은 말이 무기가 된다 [2021-03-15]
 [https://sensio.tistory.com/609](https://sensio.tistory.com/609){:target="_blank"}
