@@ -59,10 +59,74 @@ tags: kafka setup
 
 2. docker-compose
 	$ docker-compose up -d
+	$ docker-compose start
 	$ docker-compose ps
+
+	$ docker images | grep "confluentinc\|zookeeper\|kafka"
+	$ docker ps -a | grep "confluentinc\|zookeeper\|kafka"
+
+	$ docker exec -it kafka /bin/bash
 
 3. Confluent Platform
 	http://localhost:9021
+
+4. Docker Kafka 접속 설정
+	## kafka 접속
+	$CONFLUENT_HOME/etc/kafka/server.properties
+
+	## connect 접속
+	docker ps | grep connect
+	docker exec -it connect /bin/bash
+	[appuser@connect ~]$
+	[appuser@connect ~]$ cd /etc/kafka
+	[appuser@connect ~]$ cat server.properties
+	[appuser@connect ~]$ cat producer.properties
+	[appuser@connect ~]$ cat consumer.properties
+
+	## broker 접속
+	docker ps | grep broker
+	docker exec -it broker /bin/bash
+	[appuser@broker ~]$ 
+```
+
+## Kafka CLI 활용
+```
+	- Kafka exec
+	bin/zookeeper-server-start.sh config/zookeeper.properties
+	bin/kafka-server-start.sh config/server.properties
+
+	./bin/zookeeper-server-start.sh config/zookeeper.properties
+	./bin/kafka-server-start.sh config/server.properties
+
+	- topic exec
+	./bin/kafka-topics.sh 
+
+	- topic list
+	kafka-topics --bootstrap-server localhost:9092 kafka-topics --list
+
+	- topic describe
+	kafka-topics --bootstrap-server localhost:9092 --topic flux-topic --describe
+
+	- topic create
+	kafka-topics --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic flux-topic --create
+
+	- topic delete
+	kafka-topics --bootstrap-server localhost:9092 --topic flux-topic --delete
+
+	- Producer info
+	bin/kafka-console-producer.sh
+
+	kafka-console-producer ?-broker-list localhost:9092 ?-topic flux-topic
+
+	- Consumer info
+	bin/kafka-consumer-groups.sh
+
+	- Consumer group list
+	kafka-consumer-groups --bootstrap-server localhost:9092 --list
+
+	- consumer group status
+	kafka-consumer-groups --bootstrap-server localhost:9092 --group devfluxgroup01 --describe
+
 ```
 
 ## Kafka Manager on Windows
@@ -76,6 +140,15 @@ tags: kafka setup
 
 ## kafka-go
 - https://github.com/segmentio/kafka-go
+
+## Transactions Kafka
+- Kafka Exactly-Once-Delievery
+- https://www.confluent.io/blog/transactions-apache-kafka/
+
+## Kafka - KSQL
+- https://ksqldb.io/quickstart.html?_ga=2.267864519.810007378.1615949128-2094812948.1615949128
+- docker exec -it ksqldb-cli ksql http://ksqldb-server:8088
+
 
 ### 실행 화면
 ![img1](/assets/img/post/kafka/img01.JPG)
