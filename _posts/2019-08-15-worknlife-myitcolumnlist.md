@@ -2,12 +2,15 @@
 layout: post
 title: "IT Tech 칼럼 리스트"
 subtitle:   "나만의 IT Tech 칼럼 스크랩"
-date: 2021-03-18 20:00:00 -0400
+date: 2021-03-31 20:00:00 -0400
 categories: life
 tags: life
 ---
 
 ## FLUX 의 IT Tech 칼럼 스크랩 리스트
+
+### - 레거시를 파악하고 변경해나가기: 우선순위와 고려사항들 [2021-03-31]
+[https://kadensungbincho.tistory.com/m/72](https://kadensungbincho.tistory.com/m/72){:target="_blank"}
 
 ### - [카프카(Kafka)] 성능 관련 고찰 [2021-03-18]
 [https://team-platform.tistory.com/6](https://team-platform.tistory.com/6){:target="_blank"}
